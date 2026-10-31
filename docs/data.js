@@ -1,7 +1,27 @@
 window.AFRICA_DESK = {
   "schemaVersion": 1,
-  "publishedAt": "2026-10-31T16:17:10.949Z",
+  "publishedAt": "2026-10-31T16:22:23.999Z",
   "editions": [
+    {
+      "date": "2026-10-31",
+      "label": "RESEARCH PASS · COVERAGE GAPS REMAIN",
+      "headline": "Three new questions; no original finding cleared.",
+      "summary": "Reviewed a parliamentary statement, a MakanDay recruitment interview and a Tanzanian history essay. All three remain in the research queue. Primary-document and local-language gaps prevent stronger conclusions.",
+      "newDevelopedLeads": 0,
+      "health": {
+        "ok": 77,
+        "unavailable": 22,
+        "adapters": 10
+      },
+      "activeLeadIds": [
+        "tanzania-aircraft",
+        "zambia-recordings",
+        "sa-prison-records",
+        "botswana-recruitment"
+      ],
+      "fileNote": "Earlier reporting leads carried forward from 28 October; none is relabelled as a new finding.",
+      "queueNote": "New queue: South Africa deployment-notification timing; Zambia recruitment evidence-sharing; Tanzania archival access. Collection figures cover the 109-route expansion check, including new routes since disabled after failing. Wider-region, archive and social searches were limited and often off target."
+    },
     {
       "date": "2026-10-29",
       "label": "THE LATEST RESEARCH PASS",
@@ -177,6 +197,86 @@ window.AFRICA_DESK = {
         {
           "label": "ICoCA — Mozambique country-study call",
           "url": "https://icoca.ch/2026/10/13/call-for-applicants-mozambique-fstp-sub-grant-under-the-cai/"
+        }
+      ]
+    },
+    {
+      "id": "sa-deployment-notices",
+      "title": "Why do military deployment notices keep reaching Parliament late?",
+      "country": "South Africa",
+      "beat": "Politics & power",
+      "status": "Research queue",
+      "firstReviewed": "2026-10-31",
+      "summary": "Parliament’s defence committee flags recurring late notifications and asks for an itemised cost breakdown for the KwaZulu-Natal deployment. The deployment itself is already reported.",
+      "angle": "Reconstruct the authorization, start date and parliamentary receipt timeline, then compare estimated and actual spending. This is a proposed follow-up, not an established oversight failure by this desk.",
+      "evidence": "The 30 October parliamentary statement, locally extracted paragraphs 32–37, records committee support, its complaint about repeated notification delays, and its request for detailed costs. The reader flags navigation contamination; the relevant body paragraphs were inspected. This is the committee’s account, not a judicial finding.",
+      "priorCoverage": "An AP search result dated 27 October already describes the deployment and an estimated R34 million cost. Its direct page could not be retrieved in this run; search text is a coverage pointer, not independently verified evidence. The parliamentary complaint is public, so originality remains unconfirmed.",
+      "gaps": "The authorization letter, parliamentary receipt date, committee correspondence, itemised budget and actual spending have not been obtained. No legal breach is established here. Local-language searches were weak.",
+      "steps": [
+        "Locate the presidential notification and parliamentary receipt record.",
+        "Obtain the committee letter and itemised cost response; distinguish estimated from actual costs.",
+        "Compare earlier notification delays and prepare questions for the responsible institutions; no outreach has been made."
+      ],
+      "sources": [
+        {
+          "label": "Parliament — defence committee statement, 30 October",
+          "url": "https://www.parliament.gov.za/press-releases/media-statement-defence-committee-supports-deployment-510-sandf-members-assist-saps-kwazulu-natal"
+        },
+        {
+          "label": "AP — earlier deployment coverage (direct retrieval failed)",
+          "url": "https://apnews.com/article/11f0f2ca27ddac047427bc9ba899acb9"
+        }
+      ]
+    },
+    {
+      "id": "zambia-recruitment-evidence",
+      "title": "Did Zambia seek evidence on deceptive recruitment into Russia’s war?",
+      "country": "Zambia",
+      "beat": "Security networks",
+      "status": "Research queue",
+      "firstReviewed": "2026-10-31",
+      "summary": "MakanDay editor Charles Mafa’s published interview offers a reporting route into evidence-sharing and domestic investigations. It must be credited as MakanDay’s work.",
+      "angle": "Establish whether relevant authorities sought evidence or opened specific intermediary investigations, using dated records rather than assuming inaction.",
+      "evidence": "MakanDay’s 30 October interview, local paragraphs 13–25, attributes Zambia’s omission to the commission’s corroboration threshold and discusses evidence-sharing with judicial bodies. The interview does not identify which governments replied to requests.",
+      "priorCoverage": "Charles Mafa has already reported this interview, with related MakanDay coverage and a 27 October version found in searches. Repackaging it would add no original contribution.",
+      "gaps": "The underlying commission report and Zambia-specific correspondence were not obtained. Omission from a report does not prove that recruitment did not happen, or that authorities ignored a request. Extracted names have encoding artefacts; paraphrase cautiously.",
+      "steps": [
+        "Retrieve the underlying commission report and check its methodology and country references.",
+        "Find public investigation or parliamentary records concerning named recruitment intermediaries.",
+        "Establish evidence-sharing requests and outcomes before making any claim of government inaction."
+      ],
+      "sources": [
+        {
+          "label": "Charles Mafa / MakanDay — published interview",
+          "url": "https://makanday.org/qa-why-zambia-was-left-out-of-un-findings-on-russias-recruitment-networks-2/"
+        }
+      ]
+    },
+    {
+      "id": "tanzania-iliffe-archive-route",
+      "title": "Where can researchers consult the African records behind colonial histories?",
+      "country": "Tanzania",
+      "beat": "History & archives",
+      "status": "Research queue",
+      "firstReviewed": "2026-10-31",
+      "summary": "George Roberts’s new essay in The Chanzo points toward research notes, oral histories and the limits of access to Tanzanian political archives. It supplies research directions, not a rediscovered document.",
+      "angle": "Locate one accessible collection or oral-history record and establish its provenance, access conditions and what it adds beyond published scholarship.",
+      "evidence": "Roberts’s essay, locally extracted paragraphs 6, 8 and 11, discusses oral-history work, a forthcoming departmental volume and research notes. These descriptions are attributed to the author; no underlying archival file was examined.",
+      "priorCoverage": "Iliffe’s scholarship is long established. Searches found his 1997 Tanzania Zamani article TANU and the Colonial Office, alongside earlier bibliographic and obituary material. The article abstract explicitly distinguishes British policy records from the African archives needed for a fuller history.",
+      "gaps": "No collection reference, archival scan, new release or independently confirmed access restriction was established. Direct retrieval of the Tanzania Zamani page timed out. Catalogue dates are not release dates.",
+      "steps": [
+        "Locate the collection catalogue and verify repository and consultation conditions.",
+        "Identify African-authored records and relevant Tanzanian scholarship.",
+        "Read the original item and existing scholarship before proposing a historical finding."
+      ],
+      "sources": [
+        {
+          "label": "George Roberts / The Chanzo — essay, 31 October",
+          "url": "https://thechanzo.com/2026/10/31/john-iliffe-and-the-making-of-tanzanian-history/"
+        },
+        {
+          "label": "Tanzania Zamani — TANU and the Colonial Office (1997)",
+          "url": "https://journals.udsm.ac.tz/index.php/tz/article/view/2355"
         }
       ]
     }

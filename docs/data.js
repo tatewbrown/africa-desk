@@ -1,6 +1,6 @@
 window.AFRICA_DESK = {
   "schemaVersion": 1,
-  "publishedAt": "2026-10-31T14:34:42.335Z",
+  "publishedAt": "2026-10-31T16:17:10.949Z",
   "editions": [
     {
       "date": "2026-10-29",
@@ -191,7 +191,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "Responding"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s002",
@@ -202,7 +202,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "primary",
       "enabled": true,
-      "collection": "Access gap"
+      "collection": "31 Oct check: unavailable — Robots redirect needs manual review"
     },
     {
       "id": "s003",
@@ -213,7 +213,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "Responding"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s004",
@@ -224,7 +224,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "primary",
       "enabled": true,
-      "collection": "Needs a reader"
+      "collection": "31 Oct check: needs dedicated reader"
     },
     {
       "id": "s005",
@@ -235,7 +235,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "Responding"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s006",
@@ -246,7 +246,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "primary",
       "enabled": true,
-      "collection": "Needs a reader"
+      "collection": "31 Oct check: needs dedicated reader"
     },
     {
       "id": "s007",
@@ -257,7 +257,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "Responding"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s008",
@@ -268,7 +268,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "primary",
       "enabled": true,
-      "collection": "Responding"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s009",
@@ -279,7 +279,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "Access gap"
+      "collection": "31 Oct check: unavailable — HTTP 403"
     },
     {
       "id": "s010",
@@ -290,7 +290,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "primary",
       "enabled": true,
-      "collection": "Responding"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s011",
@@ -312,7 +312,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "primary",
       "enabled": true,
-      "collection": "Needs a reader"
+      "collection": "31 Oct check: unavailable — fetch failed"
     },
     {
       "id": "s013",
@@ -323,7 +323,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "Responding"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s014",
@@ -334,7 +334,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "primary",
       "enabled": true,
-      "collection": "Needs a reader"
+      "collection": "31 Oct check: needs dedicated reader"
     },
     {
       "id": "s015",
@@ -345,7 +345,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "Access gap"
+      "collection": "31 Oct check: unavailable — Robots unavailable: 403"
     },
     {
       "id": "s016",
@@ -389,7 +389,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "Responding"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s020",
@@ -411,7 +411,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "Responding"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s022",
@@ -433,7 +433,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "Responding"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s024",
@@ -444,7 +444,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "Responding"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s025",
@@ -455,7 +455,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "Responding"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s026",
@@ -477,7 +477,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "Responding"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s028",
@@ -499,7 +499,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "Responding"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s030",
@@ -565,7 +565,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "official-media",
       "enabled": true,
-      "collection": "Access gap"
+      "collection": "31 Oct check: unavailable — Robots unavailable: 403"
     },
     {
       "id": "s036",
@@ -631,7 +631,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "Responding"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s042",
@@ -653,7 +653,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "Responding"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s044",
@@ -675,7 +675,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "Responding"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s046",
@@ -697,7 +697,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "Access gap"
+      "collection": "31 Oct check: unavailable — HTTP 403"
     },
     {
       "id": "s048",
@@ -765,7 +765,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "Responding"
+      "collection": "31 Oct check: unavailable — The operation was aborted due to timeout"
     },
     {
       "id": "s054",
@@ -776,7 +776,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "primary",
       "enabled": true,
-      "collection": "Access gap"
+      "collection": "31 Oct check: unavailable — fetch failed"
     },
     {
       "id": "s055",
@@ -787,7 +787,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "Responding"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s056",
@@ -798,7 +798,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "Responding"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s057",
@@ -809,7 +809,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reference",
       "enabled": true,
-      "collection": "Responding"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s058",
@@ -820,7 +820,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "archive",
       "enabled": true,
-      "collection": "Responding"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s059",
@@ -831,7 +831,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "archive",
       "enabled": true,
-      "collection": "Access gap"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s060",
@@ -845,7 +845,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "archive",
       "enabled": true,
-      "collection": "Responding"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s061",
@@ -856,7 +856,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "archive",
       "enabled": true,
-      "collection": "Responding"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s062",
@@ -867,7 +867,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "primary",
       "enabled": true,
-      "collection": "Responding"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s063",
@@ -878,7 +878,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "primary",
       "enabled": true,
-      "collection": "Responding"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s064",
@@ -889,7 +889,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "primary",
       "enabled": true,
-      "collection": "Responding"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s065",
@@ -900,7 +900,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "primary",
       "enabled": true,
-      "collection": "Access gap"
+      "collection": "31 Oct check: unavailable — HTTP 403"
     },
     {
       "id": "s066",
@@ -929,7 +929,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "Responding"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s068",
@@ -939,8 +939,8 @@ window.AFRICA_DESK = {
         "Kenya"
       ],
       "kind": "reporting",
-      "enabled": true,
-      "collection": "Queued for collection; not yet tested"
+      "enabled": false,
+      "collection": "31 Oct check: unavailable — fetch failed"
     },
     {
       "id": "s069",
@@ -950,8 +950,8 @@ window.AFRICA_DESK = {
         "Kenya"
       ],
       "kind": "reporting",
-      "enabled": true,
-      "collection": "Queued for collection; not yet tested"
+      "enabled": false,
+      "collection": "31 Oct check: unavailable — HTTP 403"
     },
     {
       "id": "s070",
@@ -961,8 +961,8 @@ window.AFRICA_DESK = {
         "Kenya"
       ],
       "kind": "reporting",
-      "enabled": true,
-      "collection": "Queued for collection; not yet tested"
+      "enabled": false,
+      "collection": "31 Oct check: unavailable — Robots unavailable: 403"
     },
     {
       "id": "s071",
@@ -1006,7 +1006,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "Queued for collection; not yet tested"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s075",
@@ -1017,7 +1017,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "Queued for collection; not yet tested"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s076",
@@ -1028,7 +1028,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "Queued for collection; not yet tested"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s077",
@@ -1061,7 +1061,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "Queued for collection; not yet tested"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s080",
@@ -1072,7 +1072,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "Queued for collection; not yet tested"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s081",
@@ -1105,7 +1105,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "Queued for collection; not yet tested"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s084",
@@ -1115,8 +1115,8 @@ window.AFRICA_DESK = {
         "Zambia"
       ],
       "kind": "reporting",
-      "enabled": true,
-      "collection": "Queued for collection; not yet tested"
+      "enabled": false,
+      "collection": "31 Oct check: unavailable — HTTP 403"
     },
     {
       "id": "s085",
@@ -1149,7 +1149,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "Queued for collection; not yet tested"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s088",
@@ -1159,8 +1159,8 @@ window.AFRICA_DESK = {
         "Zimbabwe"
       ],
       "kind": "reporting",
-      "enabled": true,
-      "collection": "Queued for collection; not yet tested"
+      "enabled": false,
+      "collection": "31 Oct check: needs dedicated reader"
     },
     {
       "id": "s089",
@@ -1170,8 +1170,8 @@ window.AFRICA_DESK = {
         "Zimbabwe"
       ],
       "kind": "reporting",
-      "enabled": true,
-      "collection": "Queued for collection; not yet tested"
+      "enabled": false,
+      "collection": "31 Oct check: needs dedicated reader"
     },
     {
       "id": "s090",
@@ -1193,7 +1193,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "Queued for collection; not yet tested"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s092",
@@ -1204,7 +1204,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "Queued for collection; not yet tested"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s093",
@@ -1226,7 +1226,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "Queued for collection; not yet tested"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s095",
@@ -1237,7 +1237,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "Queued for collection; not yet tested"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s096",
@@ -1248,7 +1248,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "Queued for collection; not yet tested"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s097",
@@ -1324,8 +1324,8 @@ window.AFRICA_DESK = {
         "Uganda"
       ],
       "kind": "reporting",
-      "enabled": true,
-      "collection": "Queued for collection; not yet tested"
+      "enabled": false,
+      "collection": "31 Oct check: unavailable — Robots unavailable: 403"
     },
     {
       "id": "s104",
@@ -1336,7 +1336,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "Queued for collection; not yet tested"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s105",
@@ -1358,7 +1358,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "Queued for collection; not yet tested"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s107",
@@ -1380,7 +1380,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "Queued for collection; not yet tested"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s109",
@@ -1391,7 +1391,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "Queued for collection; not yet tested"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s110",
@@ -1402,7 +1402,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "Queued for collection; not yet tested"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s111",
@@ -1412,8 +1412,8 @@ window.AFRICA_DESK = {
         "DRC"
       ],
       "kind": "reporting",
-      "enabled": true,
-      "collection": "Queued for collection; not yet tested"
+      "enabled": false,
+      "collection": "31 Oct check: unavailable — Robots redirect needs manual review"
     },
     {
       "id": "s112",
@@ -1424,7 +1424,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "Queued for collection; not yet tested"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s113",
@@ -1435,7 +1435,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "Queued for collection; not yet tested"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s114",
@@ -1446,7 +1446,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "Queued for collection; not yet tested"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s115",
@@ -1457,7 +1457,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "Queued for collection; not yet tested"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s116",
@@ -1468,7 +1468,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "Queued for collection; not yet tested"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s117",
@@ -1490,7 +1490,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "Queued for collection; not yet tested"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s119",
@@ -1500,8 +1500,8 @@ window.AFRICA_DESK = {
         "Angola"
       ],
       "kind": "reporting",
-      "enabled": true,
-      "collection": "Queued for collection; not yet tested"
+      "enabled": false,
+      "collection": "31 Oct check: unavailable — Robots unavailable: 403"
     },
     {
       "id": "s120",
@@ -1512,7 +1512,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "Queued for collection; not yet tested"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s121",
@@ -1523,7 +1523,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "Queued for collection; not yet tested"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s122",
@@ -1545,7 +1545,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "Queued for collection; not yet tested"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s124",
@@ -1555,8 +1555,8 @@ window.AFRICA_DESK = {
         "Lesotho"
       ],
       "kind": "reporting",
-      "enabled": true,
-      "collection": "Queued for collection; not yet tested"
+      "enabled": false,
+      "collection": "31 Oct check: unavailable — Robots unavailable: 403"
     },
     {
       "id": "s125",
@@ -1566,8 +1566,8 @@ window.AFRICA_DESK = {
         "Eswatini"
       ],
       "kind": "reporting",
-      "enabled": true,
-      "collection": "Queued for collection; not yet tested"
+      "enabled": false,
+      "collection": "31 Oct check: needs dedicated reader"
     },
     {
       "id": "s126",
@@ -1577,8 +1577,8 @@ window.AFRICA_DESK = {
         "Eswatini"
       ],
       "kind": "reporting",
-      "enabled": true,
-      "collection": "Queued for collection; not yet tested"
+      "enabled": false,
+      "collection": "31 Oct check: unavailable — Robots redirect needs manual review"
     },
     {
       "id": "s127",
@@ -1588,8 +1588,8 @@ window.AFRICA_DESK = {
         "Ethiopia"
       ],
       "kind": "reporting",
-      "enabled": true,
-      "collection": "Queued for collection; not yet tested"
+      "enabled": false,
+      "collection": "31 Oct check: unavailable — HTTP 403"
     },
     {
       "id": "s128",
@@ -1600,7 +1600,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "Queued for collection; not yet tested"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s129",
@@ -1611,7 +1611,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "Queued for collection; not yet tested"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s130",
@@ -1621,8 +1621,8 @@ window.AFRICA_DESK = {
         "Eritrea"
       ],
       "kind": "reporting",
-      "enabled": true,
-      "collection": "Queued for collection; not yet tested"
+      "enabled": false,
+      "collection": "31 Oct check: unavailable — Robots unavailable: 403"
     },
     {
       "id": "s131",
@@ -1633,7 +1633,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "Queued for collection; not yet tested"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s132",
@@ -1655,7 +1655,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "Queued for collection; not yet tested"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s134",
@@ -1666,7 +1666,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "Queued for collection; not yet tested"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s135",
@@ -1676,8 +1676,8 @@ window.AFRICA_DESK = {
         "Somalia"
       ],
       "kind": "research",
-      "enabled": true,
-      "collection": "Queued for collection; not yet tested"
+      "enabled": false,
+      "collection": "31 Oct check: needs dedicated reader"
     },
     {
       "id": "s136",
@@ -1688,7 +1688,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "Queued for collection; not yet tested"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s137",
@@ -1699,7 +1699,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "Queued for collection; not yet tested"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s138",
@@ -1709,8 +1709,8 @@ window.AFRICA_DESK = {
         "Sudan"
       ],
       "kind": "reporting",
-      "enabled": true,
-      "collection": "Queued for collection; not yet tested"
+      "enabled": false,
+      "collection": "31 Oct check: unavailable — Robots unavailable: 403"
     },
     {
       "id": "s139",
@@ -1720,8 +1720,8 @@ window.AFRICA_DESK = {
         "Sudan"
       ],
       "kind": "research",
-      "enabled": true,
-      "collection": "Queued for collection; not yet tested"
+      "enabled": false,
+      "collection": "31 Oct check: needs dedicated reader"
     },
     {
       "id": "s140",
@@ -1732,7 +1732,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "Queued for collection; not yet tested"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s141",
@@ -1743,7 +1743,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "Queued for collection; not yet tested"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s142",
@@ -1754,7 +1754,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "Queued for collection; not yet tested"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s143",
@@ -1765,7 +1765,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "Queued for collection; not yet tested"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s144",
@@ -1787,7 +1787,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "Queued for collection; not yet tested"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s146",
@@ -1798,7 +1798,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "Queued for collection; not yet tested"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s147",
@@ -1809,7 +1809,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "Queued for collection; not yet tested"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s148",
@@ -1819,8 +1819,8 @@ window.AFRICA_DESK = {
         "Regional"
       ],
       "kind": "reporting",
-      "enabled": true,
-      "collection": "Queued for collection; not yet tested"
+      "enabled": false,
+      "collection": "31 Oct check: needs dedicated reader"
     },
     {
       "id": "s149",
@@ -1830,8 +1830,8 @@ window.AFRICA_DESK = {
         "Regional"
       ],
       "kind": "reporting",
-      "enabled": true,
-      "collection": "Queued for collection; not yet tested"
+      "enabled": false,
+      "collection": "31 Oct check: unavailable — fetch failed"
     },
     {
       "id": "s150",
@@ -1842,7 +1842,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "Queued for collection; not yet tested"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s151",
@@ -1853,7 +1853,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "Queued for collection; not yet tested"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s152",
@@ -1864,7 +1864,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "Queued for collection; not yet tested"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s153",
@@ -1875,7 +1875,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "Queued for collection; not yet tested"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s154",
@@ -1885,8 +1885,8 @@ window.AFRICA_DESK = {
         "Regional"
       ],
       "kind": "research",
-      "enabled": true,
-      "collection": "Queued for collection; not yet tested"
+      "enabled": false,
+      "collection": "31 Oct check: needs dedicated reader"
     },
     {
       "id": "s155",
@@ -1897,7 +1897,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "Queued for collection; not yet tested"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s156",
@@ -1908,7 +1908,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "Queued for collection; not yet tested"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s157",
@@ -1919,7 +1919,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "Queued for collection; not yet tested"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s158",
@@ -1930,7 +1930,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "Queued for collection; not yet tested"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s159",
@@ -1941,7 +1941,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "Queued for collection; not yet tested"
+      "collection": "31 Oct check: listings extracted"
     },
     {
       "id": "s160",
@@ -2110,10 +2110,10 @@ window.AFRICA_DESK = {
     },
     {
       "id": "s175",
-      "name": "Digital Library of the Caribbean colonial comparisons",
-      "url": "https://www.dloc.com/",
+      "name": "University of Cape Town digital collections",
+      "url": "https://digitalcollections.lib.uct.ac.za/",
       "countries": [
-        "Regional"
+        "South Africa"
       ],
       "kind": "archive",
       "enabled": false,

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "publishedAt": "2026-10-31T02:48:41.169Z",
+  "publishedAt": "2026-10-31T14:34:42.335Z",
   "editions": [
     {
       "date": "2026-10-29",
@@ -930,6 +930,1359 @@
       "kind": "research",
       "enabled": true,
       "collection": "Responding"
+    },
+    {
+      "id": "s068",
+      "name": "The Elephant",
+      "url": "https://www.theelephant.info/",
+      "countries": [
+        "Kenya"
+      ],
+      "kind": "reporting",
+      "enabled": true,
+      "collection": "Queued for collection; not yet tested"
+    },
+    {
+      "id": "s069",
+      "name": "Nation",
+      "url": "https://nation.africa/kenya",
+      "countries": [
+        "Kenya"
+      ],
+      "kind": "reporting",
+      "enabled": true,
+      "collection": "Queued for collection; not yet tested"
+    },
+    {
+      "id": "s070",
+      "name": "Africa Check",
+      "url": "https://africacheck.org/",
+      "countries": [
+        "Kenya"
+      ],
+      "kind": "reporting",
+      "enabled": true,
+      "collection": "Queued for collection; not yet tested"
+    },
+    {
+      "id": "s071",
+      "name": "Controller of Budget Kenya",
+      "url": "https://cob.go.ke/",
+      "countries": [
+        "Kenya"
+      ],
+      "kind": "primary",
+      "enabled": false,
+      "collection": "Manual discovery; verification pending"
+    },
+    {
+      "id": "s072",
+      "name": "Public Procurement Regulatory Authority Kenya",
+      "url": "https://ppra.go.ke/",
+      "countries": [
+        "Kenya"
+      ],
+      "kind": "primary",
+      "enabled": false,
+      "collection": "Manual discovery; verification pending"
+    },
+    {
+      "id": "s073",
+      "name": "Parliament Kenya",
+      "url": "https://www.parliament.go.ke/",
+      "countries": [
+        "Kenya"
+      ],
+      "kind": "primary",
+      "enabled": false,
+      "collection": "Manual discovery; verification pending"
+    },
+    {
+      "id": "s074",
+      "name": "Katiba Institute",
+      "url": "https://katibainstitute.org/",
+      "countries": [
+        "Kenya"
+      ],
+      "kind": "research",
+      "enabled": true,
+      "collection": "Queued for collection; not yet tested"
+    },
+    {
+      "id": "s075",
+      "name": "Mwananchi",
+      "url": "https://www.mwananchi.co.tz/",
+      "countries": [
+        "Tanzania"
+      ],
+      "kind": "reporting",
+      "enabled": true,
+      "collection": "Queued for collection; not yet tested"
+    },
+    {
+      "id": "s076",
+      "name": "The Citizen Tanzania",
+      "url": "https://www.thecitizen.co.tz/",
+      "countries": [
+        "Tanzania"
+      ],
+      "kind": "reporting",
+      "enabled": true,
+      "collection": "Queued for collection; not yet tested"
+    },
+    {
+      "id": "s077",
+      "name": "Public Procurement Regulatory Authority Tanzania",
+      "url": "https://www.ppra.go.tz/",
+      "countries": [
+        "Tanzania"
+      ],
+      "kind": "primary",
+      "enabled": false,
+      "collection": "Manual discovery; verification pending"
+    },
+    {
+      "id": "s078",
+      "name": "Tanzania Parliament",
+      "url": "https://www.parliament.go.tz/",
+      "countries": [
+        "Tanzania"
+      ],
+      "kind": "primary",
+      "enabled": false,
+      "collection": "Manual discovery; verification pending"
+    },
+    {
+      "id": "s079",
+      "name": "The Nation Malawi",
+      "url": "https://mwnation.com/",
+      "countries": [
+        "Malawi"
+      ],
+      "kind": "reporting",
+      "enabled": true,
+      "collection": "Queued for collection; not yet tested"
+    },
+    {
+      "id": "s080",
+      "name": "Nyasa Times",
+      "url": "https://www.nyasatimes.com/",
+      "countries": [
+        "Malawi"
+      ],
+      "kind": "reporting",
+      "enabled": true,
+      "collection": "Queued for collection; not yet tested"
+    },
+    {
+      "id": "s081",
+      "name": "Malawi National Audit Office",
+      "url": "https://www.nao.gov.mw/",
+      "countries": [
+        "Malawi"
+      ],
+      "kind": "primary",
+      "enabled": false,
+      "collection": "Manual discovery; verification pending"
+    },
+    {
+      "id": "s082",
+      "name": "Malawi Parliament",
+      "url": "https://www.parliament.gov.mw/",
+      "countries": [
+        "Malawi"
+      ],
+      "kind": "primary",
+      "enabled": false,
+      "collection": "Manual discovery; verification pending"
+    },
+    {
+      "id": "s083",
+      "name": "News Diggers",
+      "url": "https://diggers.news/",
+      "countries": [
+        "Zambia"
+      ],
+      "kind": "reporting",
+      "enabled": true,
+      "collection": "Queued for collection; not yet tested"
+    },
+    {
+      "id": "s084",
+      "name": "Lusaka Times",
+      "url": "https://www.lusakatimes.com/",
+      "countries": [
+        "Zambia"
+      ],
+      "kind": "reporting",
+      "enabled": true,
+      "collection": "Queued for collection; not yet tested"
+    },
+    {
+      "id": "s085",
+      "name": "Zambia Parliament",
+      "url": "https://www.parliament.gov.zm/",
+      "countries": [
+        "Zambia"
+      ],
+      "kind": "primary",
+      "enabled": false,
+      "collection": "Manual discovery; verification pending"
+    },
+    {
+      "id": "s086",
+      "name": "Zambia Public Procurement Authority",
+      "url": "https://www.zppa.org.zm/",
+      "countries": [
+        "Zambia"
+      ],
+      "kind": "primary",
+      "enabled": false,
+      "collection": "Manual discovery; verification pending"
+    },
+    {
+      "id": "s087",
+      "name": "The NewsHawks",
+      "url": "https://thenewshawks.com/",
+      "countries": [
+        "Zimbabwe"
+      ],
+      "kind": "reporting",
+      "enabled": true,
+      "collection": "Queued for collection; not yet tested"
+    },
+    {
+      "id": "s088",
+      "name": "The Zimbabwe Independent",
+      "url": "https://www.theindependent.co.zw/",
+      "countries": [
+        "Zimbabwe"
+      ],
+      "kind": "reporting",
+      "enabled": true,
+      "collection": "Queued for collection; not yet tested"
+    },
+    {
+      "id": "s089",
+      "name": "ZimFact",
+      "url": "https://zimfact.org/",
+      "countries": [
+        "Zimbabwe"
+      ],
+      "kind": "reporting",
+      "enabled": true,
+      "collection": "Queued for collection; not yet tested"
+    },
+    {
+      "id": "s090",
+      "name": "Zimbabwe Parliament",
+      "url": "https://www.parlzim.gov.zw/",
+      "countries": [
+        "Zimbabwe"
+      ],
+      "kind": "primary",
+      "enabled": false,
+      "collection": "Manual discovery; verification pending"
+    },
+    {
+      "id": "s091",
+      "name": "Sunday Standard",
+      "url": "https://www.sundaystandard.info/",
+      "countries": [
+        "Botswana"
+      ],
+      "kind": "reporting",
+      "enabled": true,
+      "collection": "Queued for collection; not yet tested"
+    },
+    {
+      "id": "s092",
+      "name": "The Botswana Gazette",
+      "url": "https://www.thegazette.news/",
+      "countries": [
+        "Botswana"
+      ],
+      "kind": "reporting",
+      "enabled": true,
+      "collection": "Queued for collection; not yet tested"
+    },
+    {
+      "id": "s093",
+      "name": "Bank of Botswana",
+      "url": "https://www.bankofbotswana.bw/",
+      "countries": [
+        "Botswana"
+      ],
+      "kind": "primary",
+      "enabled": false,
+      "collection": "Manual discovery; verification pending"
+    },
+    {
+      "id": "s094",
+      "name": "GroundUp",
+      "url": "https://groundup.org.za/",
+      "countries": [
+        "South Africa"
+      ],
+      "kind": "reporting",
+      "enabled": true,
+      "collection": "Queued for collection; not yet tested"
+    },
+    {
+      "id": "s095",
+      "name": "Daily Maverick",
+      "url": "https://www.dailymaverick.co.za/",
+      "countries": [
+        "South Africa"
+      ],
+      "kind": "reporting",
+      "enabled": true,
+      "collection": "Queued for collection; not yet tested"
+    },
+    {
+      "id": "s096",
+      "name": "Oxpeckers",
+      "url": "https://oxpeckers.org/",
+      "countries": [
+        "South Africa"
+      ],
+      "kind": "reporting",
+      "enabled": true,
+      "collection": "Queued for collection; not yet tested"
+    },
+    {
+      "id": "s097",
+      "name": "Auditor General South Africa",
+      "url": "https://www.agsa.co.za/",
+      "countries": [
+        "South Africa"
+      ],
+      "kind": "primary",
+      "enabled": false,
+      "collection": "Manual discovery; verification pending"
+    },
+    {
+      "id": "s098",
+      "name": "Parliamentary Monitoring Group",
+      "url": "https://pmg.org.za/",
+      "countries": [
+        "South Africa"
+      ],
+      "kind": "primary",
+      "enabled": false,
+      "collection": "Manual discovery; verification pending"
+    },
+    {
+      "id": "s099",
+      "name": "Companies Tribunal",
+      "url": "https://www.companiestribunal.org.za/",
+      "countries": [
+        "South Africa"
+      ],
+      "kind": "primary",
+      "enabled": false,
+      "collection": "Manual discovery; verification pending"
+    },
+    {
+      "id": "s100",
+      "name": "South African History Archive",
+      "url": "https://www.saha.org.za/",
+      "countries": [
+        "South Africa"
+      ],
+      "kind": "archive",
+      "enabled": false,
+      "collection": "Manual discovery; verification pending"
+    },
+    {
+      "id": "s101",
+      "name": "South African History Online",
+      "url": "https://www.sahistory.org.za/",
+      "countries": [
+        "South Africa"
+      ],
+      "kind": "archive",
+      "enabled": false,
+      "collection": "Manual discovery; verification pending"
+    },
+    {
+      "id": "s102",
+      "name": "Digital Innovation South Africa",
+      "url": "https://disa.ukzn.ac.za/",
+      "countries": [
+        "South Africa"
+      ],
+      "kind": "archive",
+      "enabled": false,
+      "collection": "Manual discovery; verification pending"
+    },
+    {
+      "id": "s103",
+      "name": "Uganda Radio Network",
+      "url": "https://ugandaradionetwork.net/",
+      "countries": [
+        "Uganda"
+      ],
+      "kind": "reporting",
+      "enabled": true,
+      "collection": "Queued for collection; not yet tested"
+    },
+    {
+      "id": "s104",
+      "name": "The Observer Uganda",
+      "url": "https://observer.ug/",
+      "countries": [
+        "Uganda"
+      ],
+      "kind": "reporting",
+      "enabled": true,
+      "collection": "Queued for collection; not yet tested"
+    },
+    {
+      "id": "s105",
+      "name": "Auditor General Uganda",
+      "url": "https://www.oag.go.ug/",
+      "countries": [
+        "Uganda"
+      ],
+      "kind": "primary",
+      "enabled": false,
+      "collection": "Manual discovery; verification pending"
+    },
+    {
+      "id": "s106",
+      "name": "The Chronicles Rwanda",
+      "url": "https://www.chronicles.rw/",
+      "countries": [
+        "Rwanda"
+      ],
+      "kind": "reporting",
+      "enabled": true,
+      "collection": "Queued for collection; not yet tested"
+    },
+    {
+      "id": "s107",
+      "name": "Rwanda Public Procurement Authority",
+      "url": "https://www.rppa.gov.rw/",
+      "countries": [
+        "Rwanda"
+      ],
+      "kind": "primary",
+      "enabled": false,
+      "collection": "Manual discovery; verification pending"
+    },
+    {
+      "id": "s108",
+      "name": "SOS Medias Burundi",
+      "url": "https://www.sosmediasburundi.org/",
+      "countries": [
+        "Burundi"
+      ],
+      "kind": "reporting",
+      "enabled": true,
+      "collection": "Queued for collection; not yet tested"
+    },
+    {
+      "id": "s109",
+      "name": "Yaga Burundi",
+      "url": "https://www.yaga-burundi.com/",
+      "countries": [
+        "Burundi"
+      ],
+      "kind": "reporting",
+      "enabled": true,
+      "collection": "Queued for collection; not yet tested"
+    },
+    {
+      "id": "s110",
+      "name": "Actualite.cd",
+      "url": "https://actualite.cd/",
+      "countries": [
+        "DRC"
+      ],
+      "kind": "reporting",
+      "enabled": true,
+      "collection": "Queued for collection; not yet tested"
+    },
+    {
+      "id": "s111",
+      "name": "Congo Check",
+      "url": "https://www.congocheck.net/",
+      "countries": [
+        "DRC"
+      ],
+      "kind": "reporting",
+      "enabled": true,
+      "collection": "Queued for collection; not yet tested"
+    },
+    {
+      "id": "s112",
+      "name": "Congo Research Group / Ebuteli",
+      "url": "https://www.congoresearchgroup.org/",
+      "countries": [
+        "DRC"
+      ],
+      "kind": "research",
+      "enabled": true,
+      "collection": "Queued for collection; not yet tested"
+    },
+    {
+      "id": "s113",
+      "name": "IPIS research",
+      "url": "https://ipisresearch.be/",
+      "countries": [
+        "DRC"
+      ],
+      "kind": "research",
+      "enabled": true,
+      "collection": "Queued for collection; not yet tested"
+    },
+    {
+      "id": "s114",
+      "name": "Carta de Mocambique",
+      "url": "https://cartamz.com/",
+      "countries": [
+        "Mozambique"
+      ],
+      "kind": "reporting",
+      "enabled": true,
+      "collection": "Queued for collection; not yet tested"
+    },
+    {
+      "id": "s115",
+      "name": "Club of Mozambique",
+      "url": "https://clubofmozambique.com/",
+      "countries": [
+        "Mozambique"
+      ],
+      "kind": "reporting",
+      "enabled": true,
+      "collection": "Queued for collection; not yet tested"
+    },
+    {
+      "id": "s116",
+      "name": "OMR Mozambique",
+      "url": "https://omrmz.org/",
+      "countries": [
+        "Mozambique"
+      ],
+      "kind": "research",
+      "enabled": true,
+      "collection": "Queued for collection; not yet tested"
+    },
+    {
+      "id": "s117",
+      "name": "Tribunal Administrativo Mozambique",
+      "url": "https://www.ta.gov.mz/",
+      "countries": [
+        "Mozambique"
+      ],
+      "kind": "primary",
+      "enabled": false,
+      "collection": "Manual discovery; verification pending"
+    },
+    {
+      "id": "s118",
+      "name": "Novo Jornal",
+      "url": "https://novojornal.co.ao/",
+      "countries": [
+        "Angola"
+      ],
+      "kind": "reporting",
+      "enabled": true,
+      "collection": "Queued for collection; not yet tested"
+    },
+    {
+      "id": "s119",
+      "name": "Club-K",
+      "url": "https://club-k.net/",
+      "countries": [
+        "Angola"
+      ],
+      "kind": "reporting",
+      "enabled": true,
+      "collection": "Queued for collection; not yet tested"
+    },
+    {
+      "id": "s120",
+      "name": "The Namibian",
+      "url": "https://www.namibian.com.na/",
+      "countries": [
+        "Namibia"
+      ],
+      "kind": "reporting",
+      "enabled": true,
+      "collection": "Queued for collection; not yet tested"
+    },
+    {
+      "id": "s121",
+      "name": "The Namibian Investigative Unit / The Issue",
+      "url": "https://theissue.com.na/",
+      "countries": [
+        "Namibia"
+      ],
+      "kind": "reporting",
+      "enabled": true,
+      "collection": "Queued for collection; not yet tested"
+    },
+    {
+      "id": "s122",
+      "name": "Namibia Parliament",
+      "url": "https://www.parliament.na/",
+      "countries": [
+        "Namibia"
+      ],
+      "kind": "primary",
+      "enabled": false,
+      "collection": "Manual discovery; verification pending"
+    },
+    {
+      "id": "s123",
+      "name": "Lesotho Times",
+      "url": "https://lestimes.com/",
+      "countries": [
+        "Lesotho"
+      ],
+      "kind": "reporting",
+      "enabled": true,
+      "collection": "Queued for collection; not yet tested"
+    },
+    {
+      "id": "s124",
+      "name": "The Post Lesotho",
+      "url": "https://www.thepost.co.ls/",
+      "countries": [
+        "Lesotho"
+      ],
+      "kind": "reporting",
+      "enabled": true,
+      "collection": "Queued for collection; not yet tested"
+    },
+    {
+      "id": "s125",
+      "name": "Swaziland News",
+      "url": "https://www.swazilandnews.co.za/",
+      "countries": [
+        "Eswatini"
+      ],
+      "kind": "reporting",
+      "enabled": true,
+      "collection": "Queued for collection; not yet tested"
+    },
+    {
+      "id": "s126",
+      "name": "Times of Eswatini",
+      "url": "https://www.times.co.sz/",
+      "countries": [
+        "Eswatini"
+      ],
+      "kind": "reporting",
+      "enabled": true,
+      "collection": "Queued for collection; not yet tested"
+    },
+    {
+      "id": "s127",
+      "name": "The Reporter Ethiopia",
+      "url": "https://www.thereporterethiopia.com/",
+      "countries": [
+        "Ethiopia"
+      ],
+      "kind": "reporting",
+      "enabled": true,
+      "collection": "Queued for collection; not yet tested"
+    },
+    {
+      "id": "s128",
+      "name": "Ethiopia Insight",
+      "url": "https://www.ethiopia-insight.com/",
+      "countries": [
+        "Ethiopia"
+      ],
+      "kind": "reporting",
+      "enabled": true,
+      "collection": "Queued for collection; not yet tested"
+    },
+    {
+      "id": "s129",
+      "name": "Ethiopian Human Rights Commission",
+      "url": "https://ehrc.org/",
+      "countries": [
+        "Ethiopia"
+      ],
+      "kind": "research",
+      "enabled": true,
+      "collection": "Queued for collection; not yet tested"
+    },
+    {
+      "id": "s130",
+      "name": "Radio Erena",
+      "url": "https://erena.org/",
+      "countries": [
+        "Eritrea"
+      ],
+      "kind": "reporting",
+      "enabled": true,
+      "collection": "Queued for collection; not yet tested"
+    },
+    {
+      "id": "s131",
+      "name": "Awate",
+      "url": "https://awate.com/",
+      "countries": [
+        "Eritrea"
+      ],
+      "kind": "reporting",
+      "enabled": true,
+      "collection": "Queued for collection; not yet tested"
+    },
+    {
+      "id": "s132",
+      "name": "Djibouti Presidency official journal",
+      "url": "https://www.presidence.dj/",
+      "countries": [
+        "Djibouti"
+      ],
+      "kind": "primary",
+      "enabled": false,
+      "collection": "Manual discovery; verification pending"
+    },
+    {
+      "id": "s133",
+      "name": "Garowe Online",
+      "url": "https://www.garoweonline.com/",
+      "countries": [
+        "Somalia"
+      ],
+      "kind": "reporting",
+      "enabled": true,
+      "collection": "Queued for collection; not yet tested"
+    },
+    {
+      "id": "s134",
+      "name": "Radio Dalsan",
+      "url": "https://www.radiodalsan.com/",
+      "countries": [
+        "Somalia"
+      ],
+      "kind": "reporting",
+      "enabled": true,
+      "collection": "Queued for collection; not yet tested"
+    },
+    {
+      "id": "s135",
+      "name": "Heritage Institute",
+      "url": "https://heritageinstitute.org/",
+      "countries": [
+        "Somalia"
+      ],
+      "kind": "research",
+      "enabled": true,
+      "collection": "Queued for collection; not yet tested"
+    },
+    {
+      "id": "s136",
+      "name": "Radio Tamazuj",
+      "url": "https://www.radiotamazuj.org/",
+      "countries": [
+        "South Sudan"
+      ],
+      "kind": "reporting",
+      "enabled": true,
+      "collection": "Queued for collection; not yet tested"
+    },
+    {
+      "id": "s137",
+      "name": "The Sentry investigations",
+      "url": "https://thesentry.org/reports/",
+      "countries": [
+        "South Sudan"
+      ],
+      "kind": "reporting",
+      "enabled": true,
+      "collection": "Queued for collection; not yet tested"
+    },
+    {
+      "id": "s138",
+      "name": "Sudan Tribune",
+      "url": "https://sudantribune.com/",
+      "countries": [
+        "Sudan"
+      ],
+      "kind": "reporting",
+      "enabled": true,
+      "collection": "Queued for collection; not yet tested"
+    },
+    {
+      "id": "s139",
+      "name": "Sudan War Monitor",
+      "url": "https://sudanwarmonitor.com/",
+      "countries": [
+        "Sudan"
+      ],
+      "kind": "research",
+      "enabled": true,
+      "collection": "Queued for collection; not yet tested"
+    },
+    {
+      "id": "s140",
+      "name": "Ayin Network",
+      "url": "https://3ayin.com/",
+      "countries": [
+        "Sudan"
+      ],
+      "kind": "reporting",
+      "enabled": true,
+      "collection": "Queued for collection; not yet tested"
+    },
+    {
+      "id": "s141",
+      "name": "Mongabay Madagascar",
+      "url": "https://news.mongabay.com/list/madagascar/",
+      "countries": [
+        "Madagascar"
+      ],
+      "kind": "reporting",
+      "enabled": true,
+      "collection": "Queued for collection; not yet tested"
+    },
+    {
+      "id": "s142",
+      "name": "L'Express Madagascar",
+      "url": "https://www.lexpress.mg/",
+      "countries": [
+        "Madagascar"
+      ],
+      "kind": "reporting",
+      "enabled": true,
+      "collection": "Queued for collection; not yet tested"
+    },
+    {
+      "id": "s143",
+      "name": "Le Mauricien",
+      "url": "https://www.lemauricien.com/",
+      "countries": [
+        "Mauritius"
+      ],
+      "kind": "reporting",
+      "enabled": true,
+      "collection": "Queued for collection; not yet tested"
+    },
+    {
+      "id": "s144",
+      "name": "National Audit Office Mauritius",
+      "url": "https://nao.govmu.org/",
+      "countries": [
+        "Mauritius"
+      ],
+      "kind": "primary",
+      "enabled": false,
+      "collection": "Manual discovery; verification pending"
+    },
+    {
+      "id": "s145",
+      "name": "Seychelles Nation",
+      "url": "https://www.nation.sc/",
+      "countries": [
+        "Seychelles"
+      ],
+      "kind": "reporting",
+      "enabled": true,
+      "collection": "Queued for collection; not yet tested"
+    },
+    {
+      "id": "s146",
+      "name": "La Gazette des Comores",
+      "url": "https://lagazettedescomores.com/",
+      "countries": [
+        "Comoros"
+      ],
+      "kind": "reporting",
+      "enabled": true,
+      "collection": "Queued for collection; not yet tested"
+    },
+    {
+      "id": "s147",
+      "name": "African Arguments",
+      "url": "https://africanarguments.org/",
+      "countries": [
+        "Regional"
+      ],
+      "kind": "reporting",
+      "enabled": true,
+      "collection": "Queued for collection; not yet tested"
+    },
+    {
+      "id": "s148",
+      "name": "The Continent",
+      "url": "https://www.thecontinent.org/",
+      "countries": [
+        "Regional"
+      ],
+      "kind": "reporting",
+      "enabled": true,
+      "collection": "Queued for collection; not yet tested"
+    },
+    {
+      "id": "s149",
+      "name": "African Investigative Publishing Collective",
+      "url": "https://investigativecollective.org/",
+      "countries": [
+        "Regional"
+      ],
+      "kind": "reporting",
+      "enabled": true,
+      "collection": "Queued for collection; not yet tested"
+    },
+    {
+      "id": "s150",
+      "name": "OCCRP Africa",
+      "url": "https://www.occrp.org/",
+      "countries": [
+        "Regional"
+      ],
+      "kind": "reporting",
+      "enabled": true,
+      "collection": "Queued for collection; not yet tested"
+    },
+    {
+      "id": "s151",
+      "name": "Institute for Security Studies",
+      "url": "https://issafrica.org/",
+      "countries": [
+        "Regional"
+      ],
+      "kind": "research",
+      "enabled": true,
+      "collection": "Queued for collection; not yet tested"
+    },
+    {
+      "id": "s152",
+      "name": "International Crisis Group Africa",
+      "url": "https://www.crisisgroup.org/africa",
+      "countries": [
+        "Regional"
+      ],
+      "kind": "research",
+      "enabled": true,
+      "collection": "Queued for collection; not yet tested"
+    },
+    {
+      "id": "s153",
+      "name": "ACLED",
+      "url": "https://acleddata.com/",
+      "countries": [
+        "Regional"
+      ],
+      "kind": "research",
+      "enabled": true,
+      "collection": "Queued for collection; not yet tested"
+    },
+    {
+      "id": "s154",
+      "name": "Small Arms Survey",
+      "url": "https://www.smallarmssurvey.org/",
+      "countries": [
+        "Regional"
+      ],
+      "kind": "research",
+      "enabled": true,
+      "collection": "Queued for collection; not yet tested"
+    },
+    {
+      "id": "s155",
+      "name": "Conflict Armament Research",
+      "url": "https://www.conflictarm.com/",
+      "countries": [
+        "Regional"
+      ],
+      "kind": "research",
+      "enabled": true,
+      "collection": "Queued for collection; not yet tested"
+    },
+    {
+      "id": "s156",
+      "name": "Global Initiative Against Transnational Organized Crime",
+      "url": "https://globalinitiative.net/",
+      "countries": [
+        "Regional"
+      ],
+      "kind": "research",
+      "enabled": true,
+      "collection": "Queued for collection; not yet tested"
+    },
+    {
+      "id": "s157",
+      "name": "C4ADS",
+      "url": "https://c4ads.org/",
+      "countries": [
+        "Regional"
+      ],
+      "kind": "research",
+      "enabled": true,
+      "collection": "Queued for collection; not yet tested"
+    },
+    {
+      "id": "s158",
+      "name": "Bellingcat",
+      "url": "https://www.bellingcat.com/",
+      "countries": [
+        "Regional"
+      ],
+      "kind": "research",
+      "enabled": true,
+      "collection": "Queued for collection; not yet tested"
+    },
+    {
+      "id": "s159",
+      "name": "ICoCA private security oversight",
+      "url": "https://icoca.ch/",
+      "countries": [
+        "Regional"
+      ],
+      "kind": "research",
+      "enabled": true,
+      "collection": "Queued for collection; not yet tested"
+    },
+    {
+      "id": "s160",
+      "name": "UN procurement notices",
+      "url": "https://www.ungm.org/Public/Notice",
+      "countries": [
+        "Regional"
+      ],
+      "kind": "primary",
+      "enabled": false,
+      "collection": "Manual discovery; verification pending"
+    },
+    {
+      "id": "s161",
+      "name": "African Development Bank procurement",
+      "url": "https://www.afdb.org/en/projects-and-operations/procurement",
+      "countries": [
+        "Regional"
+      ],
+      "kind": "primary",
+      "enabled": false,
+      "collection": "Manual discovery; verification pending"
+    },
+    {
+      "id": "s162",
+      "name": "African Court on Human and Peoples Rights",
+      "url": "https://www.african-court.org/",
+      "countries": [
+        "Regional"
+      ],
+      "kind": "primary",
+      "enabled": false,
+      "collection": "Manual discovery; verification pending"
+    },
+    {
+      "id": "s163",
+      "name": "African Commission on Human and Peoples Rights",
+      "url": "https://achpr.au.int/",
+      "countries": [
+        "Regional"
+      ],
+      "kind": "primary",
+      "enabled": false,
+      "collection": "Manual discovery; verification pending"
+    },
+    {
+      "id": "s164",
+      "name": "East African Court of Justice",
+      "url": "https://www.eacj.org/",
+      "countries": [
+        "Regional"
+      ],
+      "kind": "primary",
+      "enabled": false,
+      "collection": "Manual discovery; verification pending"
+    },
+    {
+      "id": "s165",
+      "name": "EITI disclosures",
+      "url": "https://eiti.org/",
+      "countries": [
+        "Regional"
+      ],
+      "kind": "primary",
+      "enabled": false,
+      "collection": "Manual discovery; verification pending"
+    },
+    {
+      "id": "s166",
+      "name": "UK sanctions list",
+      "url": "https://www.gov.uk/government/publications/the-uk-sanctions-list",
+      "countries": [
+        "Regional"
+      ],
+      "kind": "primary",
+      "enabled": false,
+      "collection": "Manual discovery; verification pending"
+    },
+    {
+      "id": "s167",
+      "name": "US Treasury sanctions",
+      "url": "https://ofac.treasury.gov/",
+      "countries": [
+        "Regional"
+      ],
+      "kind": "primary",
+      "enabled": false,
+      "collection": "Manual discovery; verification pending"
+    },
+    {
+      "id": "s168",
+      "name": "UK National Archives Discovery",
+      "url": "https://discovery.nationalarchives.gov.uk/",
+      "countries": [
+        "Regional"
+      ],
+      "kind": "archive",
+      "enabled": false,
+      "collection": "Manual discovery; verification pending"
+    },
+    {
+      "id": "s169",
+      "name": "Endangered Archives Programme",
+      "url": "https://eap.bl.uk/",
+      "countries": [
+        "Regional"
+      ],
+      "kind": "archive",
+      "enabled": false,
+      "collection": "Manual discovery; verification pending"
+    },
+    {
+      "id": "s170",
+      "name": "German Federal Archives colonial holdings",
+      "url": "https://www.bundesarchiv.de/",
+      "countries": [
+        "Regional"
+      ],
+      "kind": "archive",
+      "enabled": false,
+      "collection": "Manual discovery; verification pending"
+    },
+    {
+      "id": "s171",
+      "name": "French overseas archives ANOM",
+      "url": "https://recherche-anom.culture.gouv.fr/",
+      "countries": [
+        "Regional"
+      ],
+      "kind": "archive",
+      "enabled": false,
+      "collection": "Manual discovery; verification pending"
+    },
+    {
+      "id": "s172",
+      "name": "Portugal overseas historical archive AHU",
+      "url": "https://ahu.dglab.gov.pt/",
+      "countries": [
+        "Regional"
+      ],
+      "kind": "archive",
+      "enabled": false,
+      "collection": "Manual discovery; verification pending"
+    },
+    {
+      "id": "s173",
+      "name": "International Institute of Social History",
+      "url": "https://iisg.amsterdam/",
+      "countries": [
+        "Regional"
+      ],
+      "kind": "archive",
+      "enabled": false,
+      "collection": "Manual discovery; verification pending"
+    },
+    {
+      "id": "s174",
+      "name": "African Studies Centre Leiden",
+      "url": "https://www.ascleiden.nl/",
+      "countries": [
+        "Regional"
+      ],
+      "kind": "archive",
+      "enabled": false,
+      "collection": "Manual discovery; verification pending"
+    },
+    {
+      "id": "s175",
+      "name": "Digital Library of the Caribbean colonial comparisons",
+      "url": "https://www.dloc.com/",
+      "countries": [
+        "Regional"
+      ],
+      "kind": "archive",
+      "enabled": false,
+      "collection": "Manual discovery; verification pending"
+    },
+    {
+      "id": "social-0",
+      "name": "John-Allan Namu · @johnallannamu",
+      "url": "https://x.com/johnallannamu",
+      "countries": [
+        "Kenya"
+      ],
+      "kind": "social · journalist",
+      "enabled": false,
+      "collection": "Search evidence found; recheck official cross-link before relying on a post; manual search only"
+    },
+    {
+      "id": "social-1",
+      "name": "Africa Uncensored · @AfUncensored",
+      "url": "https://x.com/AfUncensored",
+      "countries": [
+        "Kenya"
+      ],
+      "kind": "social · newsroom",
+      "enabled": false,
+      "collection": "Candidate handle; official cross-link verification pending; manual search only"
+    },
+    {
+      "id": "social-2",
+      "name": "Zitto Kabwe · @zittokabwe",
+      "url": "https://x.com/zittokabwe",
+      "countries": [
+        "Tanzania"
+      ],
+      "kind": "social · political actor",
+      "enabled": false,
+      "collection": "Search evidence found; recheck official cross-link before relying on a post; manual search only"
+    },
+    {
+      "id": "social-3",
+      "name": "ISS Africa · @issafrica",
+      "url": "https://x.com/issafrica",
+      "countries": [
+        "Regional"
+      ],
+      "kind": "social · research organisation",
+      "enabled": false,
+      "collection": "Search evidence found; recheck official cross-link before relying on a post; manual search only"
+    },
+    {
+      "id": "social-4",
+      "name": "amaBhungane · @amaBhungane",
+      "url": "https://x.com/amaBhungane",
+      "countries": [
+        "South Africa"
+      ],
+      "kind": "social · newsroom",
+      "enabled": false,
+      "collection": "Candidate handle; official cross-link verification pending; manual search only"
+    },
+    {
+      "id": "social-5",
+      "name": "Open Secrets · @OpenSecretsZA",
+      "url": "https://x.com/OpenSecretsZA",
+      "countries": [
+        "South Africa"
+      ],
+      "kind": "social · civil society",
+      "enabled": false,
+      "collection": "Candidate handle; official cross-link verification pending; manual search only"
+    },
+    {
+      "id": "social-6",
+      "name": "The Sentry · @TheSentry_Org",
+      "url": "https://x.com/TheSentry_Org",
+      "countries": [
+        "Regional"
+      ],
+      "kind": "social · civil society",
+      "enabled": false,
+      "collection": "Candidate handle; official cross-link verification pending; manual search only"
+    },
+    {
+      "id": "social-7",
+      "name": "Bellingcat · @bellingcat",
+      "url": "https://x.com/bellingcat",
+      "countries": [
+        "Regional"
+      ],
+      "kind": "social · research organisation",
+      "enabled": false,
+      "collection": "Candidate handle; official cross-link verification pending; manual search only"
+    },
+    {
+      "id": "social-8",
+      "name": "ACLED · @ACLEDINFO",
+      "url": "https://x.com/ACLEDINFO",
+      "countries": [
+        "Regional"
+      ],
+      "kind": "social · research organisation",
+      "enabled": false,
+      "collection": "Candidate handle; official cross-link verification pending; manual search only"
+    },
+    {
+      "id": "social-9",
+      "name": "Hopewell Chinono · @daddyhope",
+      "url": "https://x.com/daddyhope",
+      "countries": [
+        "Zimbabwe"
+      ],
+      "kind": "social · journalist",
+      "enabled": false,
+      "collection": "Candidate handle; official cross-link verification pending; manual search only"
+    },
+    {
+      "id": "social-10",
+      "name": "Ferial Haffajee · @ferialhaffajee",
+      "url": "https://x.com/ferialhaffajee",
+      "countries": [
+        "South Africa"
+      ],
+      "kind": "social · journalist",
+      "enabled": false,
+      "collection": "Candidate handle; official cross-link verification pending; manual search only"
+    },
+    {
+      "id": "social-11",
+      "name": "Samira Sawlani · @samirasawlani",
+      "url": "https://x.com/samirasawlani",
+      "countries": [
+        "Regional"
+      ],
+      "kind": "social · journalist",
+      "enabled": false,
+      "collection": "Candidate handle; official cross-link verification pending; manual search only"
+    },
+    {
+      "id": "social-12",
+      "name": "Jasmine Opperman · @Jasminechic00",
+      "url": "https://x.com/Jasminechic00",
+      "countries": [
+        "Mozambique"
+      ],
+      "kind": "social · analyst",
+      "enabled": false,
+      "collection": "Candidate handle; official cross-link verification pending; manual search only"
+    },
+    {
+      "id": "social-13",
+      "name": "Rashid Abdi · @RAbdiAnalyst",
+      "url": "https://x.com/RAbdiAnalyst",
+      "countries": [
+        "Regional"
+      ],
+      "kind": "social · analyst",
+      "enabled": false,
+      "collection": "Candidate handle; official cross-link verification pending; manual search only"
+    },
+    {
+      "id": "social-14",
+      "name": "Rafael Marques de Morais · @RafaelMdeMorais",
+      "url": "https://x.com/RafaelMdeMorais",
+      "countries": [
+        "Angola"
+      ],
+      "kind": "social · journalist",
+      "enabled": false,
+      "collection": "Candidate handle; official cross-link verification pending; manual search only"
     }
   ]
 }

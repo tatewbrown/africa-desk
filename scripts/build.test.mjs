@@ -6,4 +6,3 @@ test('malicious source links and unsupported statuses are rejected',()=>{const d
 test('internal raw responses are excluded from published payloads',()=>{const d=structuredClone(fixture);d.rawResponse='internal';assert.ok(validate(d).some(e=>e.includes('Internal')));});
 test('editions support carrying leads without claiming new findings',()=>{const d=structuredClone(fixture);d.editions[0].newDevelopedLeads=0;assert.deepEqual(validate(d),[]);});
 
-

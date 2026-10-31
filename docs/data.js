@@ -1,0 +1,935 @@
+window.AFRICA_DESK = {
+  "schemaVersion": 1,
+  "publishedAt": "2026-10-31T02:48:41.169Z",
+  "editions": [
+    {
+      "date": "2026-10-29",
+      "label": "THE LATEST RESEARCH PASS",
+      "headline": "No new lead cleared review.",
+      "summary": "The latest pass did not establish a substantive new original finding. Four earlier reporting directions remain open; a Mozambique security-workforce prospect stays in the research queue.",
+      "newDevelopedLeads": 0,
+      "health": {
+        "ok": 28,
+        "unavailable": 8,
+        "adapters": 4
+      },
+      "activeLeadIds": [
+        "tanzania-aircraft",
+        "zambia-recordings",
+        "sa-prison-records",
+        "botswana-recruitment"
+      ],
+      "fileNote": "Carried forward from 28 October. These are open reporting directions, not fresh discoveries.",
+      "queueNote": "In the research queue: Mozambique’s private-security workforce. No new PMC-specific finding or archival discovery was verified in this edition."
+    },
+    {
+      "date": "2026-10-28",
+      "label": "THE FIRST DOCUMENT-LED BRIEF",
+      "headline": "Four directions worth reporting.",
+      "summary": "The first free research run identified four documentary and source-development directions. None is a verified exclusive or a publication-ready investigation.",
+      "newDevelopedLeads": 4,
+      "health": {
+        "ok": 28,
+        "unavailable": 8,
+        "adapters": 4
+      },
+      "activeLeadIds": [
+        "tanzania-aircraft",
+        "zambia-recordings",
+        "sa-prison-records",
+        "botswana-recruitment"
+      ],
+      "fileNote": "First-reviewed leads. Read the research files for existing coverage, evidence and unresolved questions.",
+      "queueNote": "The aggregate Zambia mining-penalties story was held back because it was already reported and the full audit could not be retrieved."
+    }
+  ],
+  "leads": [
+    {
+      "id": "tanzania-aircraft",
+      "title": "Who changed Tanzania’s agricultural-aircraft deal?",
+      "country": "Tanzania",
+      "beat": "Politics & power",
+      "status": "Reporting lead",
+      "firstReviewed": "2026-10-28",
+      "summary": "An audit raises questions about changed aircraft specifications and the supplier-selection trail. The contract and approval records are the next documents to pursue.",
+      "angle": "Reconstruct who approved the changes, their stated justification, and the authority and supplier responses.",
+      "evidence": "The public-authorities audit discusses the TPHPA aircraft purchase on physical PDF pages 127–128 (printed pages 117–118), paragraphs 472–477. The relevant page was visually checked during research. The auditor questions changes and the selection trail; this is not a verdict against any supplier.",
+      "priorCoverage": "Purchase-announcement coverage was found, as well as the public audit. Targeted English and Swahili searches did not establish whether another newsroom has investigated this precise approval trail. The coverage check is limited and does not prove exclusivity.",
+      "gaps": "The signed contract, amendments, complete approval chain and responses have not been obtained. Different aircraft specifications could explain part of a price difference; price alone cannot establish overpayment.",
+      "steps": [
+        "Obtain the signed contract, amendments and approval records.",
+        "Compare the technical recommendations and supplier due-diligence records.",
+        "Seek explanations from the relevant authorities and supplier before publication."
+      ],
+      "sources": [
+        {
+          "label": "Tanzania National Audit Office — public authorities audit",
+          "url": "https://www.nao.go.tz/uploads/Annual_General_Report_for_Audit_of_Public_Authorities_FY_2024-25.pdf"
+        },
+        {
+          "label": "Daily News — purchase-announcement coverage",
+          "url": "https://dailynews.co.tz/govt-buys-6bn-high-tech-aircraft-to-boost-agriculture/"
+        }
+      ]
+    },
+    {
+      "id": "zambia-recordings",
+      "title": "Who gets to hear Zambia’s rescued colonial tapes?",
+      "country": "Zambia",
+      "beat": "History & archives",
+      "status": "Reporting lead",
+      "firstReviewed": "2026-10-28",
+      "summary": "A preservation project promises wider access to ZNBC’s endangered recordings. The published library policy still describes approval and payment for outside users.",
+      "angle": "Establish what becomes accessible, to whom, at what cost and when—then identify an actual recording worth reporting.",
+      "evidence": "UNESCO’s September 2026 project description concerns ZNBC’s colonial and liberation-era audiovisual holdings. ZNBC’s published library policy requires management approval and payment for external access. The relationship between the project and existing policy is a question, not a proven contradiction.",
+      "priorCoverage": "The project announcement is public, and scholars have already examined Radio Freedom material. The collection is not newly discovered. No specific tape has been obtained or authenticated by this desk.",
+      "gaps": "The local reader was blocked by UNESCO’s access policy; official indexed material was reviewed through search. A restoration inventory, grant terms and the actual recordings remain unexamined. New access arrangements may not be reflected in the general policy.",
+      "steps": [
+        "Request the restoration inventory and updated access conditions.",
+        "Identify and listen to one colonial or independence-era recording.",
+        "Ask a Zambian archivist or historian to contextualize the material."
+      ],
+      "sources": [
+        {
+          "label": "UNESCO — ZNBC archive-preservation project",
+          "url": "https://www.unesco.org/en/articles/restoration-and-preservation-zambia-national-broadcasting-corporation-audiovisual-archives?hub=66742"
+        },
+        {
+          "label": "ZNBC — library and access policy",
+          "url": "https://znbc.co.zm/znbc-media/?page_id=4192"
+        }
+      ]
+    },
+    {
+      "id": "sa-prison-records",
+      "title": "What does South Africa’s prison identity-record gap mean?",
+      "country": "South Africa",
+      "beat": "Politics & power",
+      "status": "Reporting lead",
+      "firstReviewed": "2026-10-28",
+      "summary": "A parliamentary statement reports a low rate of recorded inmate identity numbers and a partial rollout of the management system. The definitions matter.",
+      "angle": "Establish the denominator, how other systems identify inmates, the integration contracts and the consequences for parole.",
+      "evidence": "Parliament’s 28 October 2026 account of an audit briefing says 7% of inmates had recorded identity numbers and the Integrated Inmate Management System was implemented at 35% of centres. Those are attributed statements, not independently verified audit conclusions.",
+      "priorCoverage": "Related parliamentary material already addresses audit regression and document concerns. Repeating those statements would be curated coverage; examining the system rollout and contractual obligations might add something new.",
+      "gaps": "The full audit, metric definition and centre-level figures have not been obtained. A missing identity-number field does not establish that a prisoner is unidentified. Do not conclude that 93% of prisoners have unknown identities.",
+      "steps": [
+        "Retrieve the audit briefing and departmental annual report.",
+        "Obtain the metric definition and centre-level rollout list.",
+        "Compare contract milestones with implementation and seek the department’s response."
+      ],
+      "sources": [
+        {
+          "label": "Parliament — 28 October audit-briefing statement",
+          "url": "https://www.parliament.gov.za/press-releases/media-statement-sc-security-and-justice-receives-briefing-agsa-dcs-and-jics-audit-outcomes-2025-26"
+        }
+      ]
+    },
+    {
+      "id": "botswana-recruitment",
+      "title": "Follow the intermediaries behind Botswana’s overseas recruitment.",
+      "country": "Botswana",
+      "beat": "Security networks",
+      "status": "Reporting lead",
+      "firstReviewed": "2026-10-28",
+      "summary": "Local journalists have already documented recruitment into Russia’s war. A fresh contribution needs a specific, evidenced recruiting intermediary or business connection.",
+      "angle": "Trace a documented intermediary, a cross-border business relationship, or the practical effect of prosecution warnings on victims seeking help.",
+      "evidence": "A March parliamentary transcript records official concern about misleading overseas security-job offers and cooperation with South African authorities. Its relevant page was visually checked, but the transcript labels itself unofficial. Later October reporting materially updates the situation.",
+      "priorCoverage": "Mmegi, News&All and the Botswana Gazette have already covered recruitment, routes and official responses. The underlying story is not a new scoop. Recruitment into state forces does not establish a private military company operation.",
+      "gaps": "No new intermediary, corporate link or complaint outcome has been established. Categories and dates need reconciliation; March figures must not be presented as current.",
+      "steps": [
+        "Obtain the latest parliamentary record and reconcile dates and categories.",
+        "Investigate a specific intermediary using documents, not name similarity.",
+        "Seek informed legal and victim-support perspectives, protecting vulnerable people."
+      ],
+      "sources": [
+        {
+          "label": "Botswana Parliament — 4 March transcript",
+          "url": "https://www.parliament.gov.bw/documents/DAILY-HANSARD--4th-MARCH-2026---Budget-Meeting--2nd-meeting-of-the-2nd-session-of-the-13th-Parliament_11_01_43_09_03_2026.pdf"
+        },
+        {
+          "label": "Mmegi — existing route reporting",
+          "url": "https://www.mmegi.bw/ampArticle/122414"
+        },
+        {
+          "label": "News&All — October update",
+          "url": "https://na.co.bw/batswana-injured-captured-in-russia-ukraine-war/"
+        }
+      ]
+    },
+    {
+      "id": "mozambique-security-workers",
+      "title": "Who protects Mozambique’s private-security workforce?",
+      "country": "Mozambique",
+      "beat": "Security networks",
+      "status": "Research queue",
+      "firstReviewed": "2026-10-29",
+      "summary": "A public call for a country study points toward labour conditions in security supply chains. It is a route for source development, not evidence of abuse.",
+      "angle": "Identify one supplier–client relationship, inspect labour safeguards and complaint records, and test whether those safeguards are enforced.",
+      "evidence": "ICoCA’s 13 October call commissions research into working conditions and potential rights impacts in Mozambique’s high-risk value chains. Its official text was inspected, while local extraction is flagged for review. The call itself does not establish a violation.",
+      "priorCoverage": "Existing research already discusses security and human rights in Mozambique. Three English and Portuguese coverage searches were recorded. The broad subject is already covered.",
+      "gaps": "No supplier-level breach, complaint outcome, contract or current deployment was verified. A historical job advertisement surfaced but its live page returned HTTP 410, so it was not used to establish current staffing.",
+      "steps": [
+        "Read the study guidelines and earlier research.",
+        "Build an evidence-backed supplier and client list for one sector.",
+        "Identify accessible worker or complaint records before forming an allegation."
+      ],
+      "sources": [
+        {
+          "label": "ICoCA — Mozambique country-study call",
+          "url": "https://icoca.ch/2026/10/13/call-for-applicants-mozambique-fstp-sub-grant-under-the-cai/"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s001",
+      "name": "Africa Uncensored",
+      "url": "https://africauncensored.online/",
+      "countries": [
+        "Kenya"
+      ],
+      "kind": "reporting",
+      "enabled": true,
+      "collection": "Responding"
+    },
+    {
+      "id": "s002",
+      "name": "Kenya Law",
+      "url": "https://new.kenyalaw.org/",
+      "countries": [
+        "Kenya"
+      ],
+      "kind": "primary",
+      "enabled": true,
+      "collection": "Access gap"
+    },
+    {
+      "id": "s003",
+      "name": "The Chanzo",
+      "url": "https://thechanzo.com/",
+      "countries": [
+        "Tanzania"
+      ],
+      "kind": "reporting",
+      "enabled": true,
+      "collection": "Responding"
+    },
+    {
+      "id": "s004",
+      "name": "NeST procurement",
+      "url": "https://nest.go.tz/",
+      "countries": [
+        "Tanzania"
+      ],
+      "kind": "primary",
+      "enabled": true,
+      "collection": "Needs a reader"
+    },
+    {
+      "id": "s005",
+      "name": "Platform for Investigative Journalism",
+      "url": "https://www.pijmalawi.org/",
+      "countries": [
+        "Malawi"
+      ],
+      "kind": "reporting",
+      "enabled": true,
+      "collection": "Responding"
+    },
+    {
+      "id": "s006",
+      "name": "PPDA",
+      "url": "https://www.ppda.mw/",
+      "countries": [
+        "Malawi"
+      ],
+      "kind": "primary",
+      "enabled": true,
+      "collection": "Needs a reader"
+    },
+    {
+      "id": "s007",
+      "name": "MakanDay",
+      "url": "https://makanday.org/",
+      "countries": [
+        "Zambia"
+      ],
+      "kind": "reporting",
+      "enabled": true,
+      "collection": "Responding"
+    },
+    {
+      "id": "s008",
+      "name": "Auditor General Zambia",
+      "url": "https://www.ago.gov.zm/",
+      "countries": [
+        "Zambia"
+      ],
+      "kind": "primary",
+      "enabled": true,
+      "collection": "Responding"
+    },
+    {
+      "id": "s009",
+      "name": "ZimLive",
+      "url": "https://www.zimlive.com/",
+      "countries": [
+        "Zimbabwe"
+      ],
+      "kind": "reporting",
+      "enabled": true,
+      "collection": "Access gap"
+    },
+    {
+      "id": "s010",
+      "name": "Auditor General Zimbabwe",
+      "url": "https://auditorgeneral.gov.zw/",
+      "countries": [
+        "Zimbabwe"
+      ],
+      "kind": "primary",
+      "enabled": true,
+      "collection": "Responding"
+    },
+    {
+      "id": "s011",
+      "name": "Mmegi",
+      "url": "https://www.mmegi.bw/",
+      "countries": [
+        "Botswana"
+      ],
+      "kind": "reporting",
+      "enabled": false,
+      "collection": "Awaiting verification / access"
+    },
+    {
+      "id": "s012",
+      "name": "Auditor General Botswana",
+      "url": "https://www.gov.bw/ministries/office-auditor-general",
+      "countries": [
+        "Botswana"
+      ],
+      "kind": "primary",
+      "enabled": true,
+      "collection": "Needs a reader"
+    },
+    {
+      "id": "s013",
+      "name": "amaBhungane",
+      "url": "https://amabhungane.org/",
+      "countries": [
+        "South Africa"
+      ],
+      "kind": "reporting",
+      "enabled": true,
+      "collection": "Responding"
+    },
+    {
+      "id": "s014",
+      "name": "eTenders",
+      "url": "https://www.etenders.gov.za/home/opportunities",
+      "countries": [
+        "South Africa"
+      ],
+      "kind": "primary",
+      "enabled": true,
+      "collection": "Needs a reader"
+    },
+    {
+      "id": "s015",
+      "name": "Daily Monitor",
+      "url": "https://www.monitor.co.ug/",
+      "countries": [
+        "Uganda"
+      ],
+      "kind": "reporting",
+      "enabled": true,
+      "collection": "Access gap"
+    },
+    {
+      "id": "s016",
+      "name": "Parliament Uganda",
+      "url": "https://www.parliament.go.ug/",
+      "countries": [
+        "Uganda"
+      ],
+      "kind": "primary",
+      "enabled": false,
+      "collection": "Awaiting verification / access"
+    },
+    {
+      "id": "s017",
+      "name": "The New Times",
+      "url": "https://www.newtimes.co.rw/",
+      "countries": [
+        "Rwanda"
+      ],
+      "kind": "reporting",
+      "enabled": false,
+      "collection": "Awaiting verification / access"
+    },
+    {
+      "id": "s018",
+      "name": "Auditor General Rwanda",
+      "url": "https://www.oag.gov.rw/",
+      "countries": [
+        "Rwanda"
+      ],
+      "kind": "primary",
+      "enabled": false,
+      "collection": "Awaiting verification / access"
+    },
+    {
+      "id": "s019",
+      "name": "Iwacu",
+      "url": "https://www.iwacu-burundi.org/",
+      "countries": [
+        "Burundi"
+      ],
+      "kind": "reporting",
+      "enabled": true,
+      "collection": "Responding"
+    },
+    {
+      "id": "s020",
+      "name": "Central Bank Burundi",
+      "url": "https://www.brb.bi/",
+      "countries": [
+        "Burundi"
+      ],
+      "kind": "primary",
+      "enabled": false,
+      "collection": "Awaiting verification / access"
+    },
+    {
+      "id": "s021",
+      "name": "Radio Okapi",
+      "url": "https://www.radiookapi.net/",
+      "countries": [
+        "DRC"
+      ],
+      "kind": "reporting",
+      "enabled": true,
+      "collection": "Responding"
+    },
+    {
+      "id": "s022",
+      "name": "Extractive transparency DRC",
+      "url": "https://www.itierdc.net/",
+      "countries": [
+        "DRC"
+      ],
+      "kind": "primary",
+      "enabled": false,
+      "collection": "Awaiting verification / access"
+    },
+    {
+      "id": "s023",
+      "name": "Mozambique Times",
+      "url": "https://moztimes.com/en/category/investigation/",
+      "countries": [
+        "Mozambique"
+      ],
+      "kind": "reporting",
+      "enabled": true,
+      "collection": "Responding"
+    },
+    {
+      "id": "s024",
+      "name": "CIP Mozambique",
+      "url": "https://www.cipmoz.org/",
+      "countries": [
+        "Mozambique"
+      ],
+      "kind": "research",
+      "enabled": true,
+      "collection": "Responding"
+    },
+    {
+      "id": "s025",
+      "name": "Maka Angola",
+      "url": "https://www.makaangola.org/",
+      "countries": [
+        "Angola"
+      ],
+      "kind": "reporting",
+      "enabled": true,
+      "collection": "Responding"
+    },
+    {
+      "id": "s026",
+      "name": "Tribunal de Contas Angola",
+      "url": "https://www.tcontas.ao/",
+      "countries": [
+        "Angola"
+      ],
+      "kind": "primary",
+      "enabled": false,
+      "collection": "Awaiting verification / access"
+    },
+    {
+      "id": "s027",
+      "name": "The Namibian investigations",
+      "url": "https://investigations.namibian.com.na/",
+      "countries": [
+        "Namibia"
+      ],
+      "kind": "reporting",
+      "enabled": true,
+      "collection": "Responding"
+    },
+    {
+      "id": "s028",
+      "name": "Auditor General Namibia",
+      "url": "https://oag.gov.na/",
+      "countries": [
+        "Namibia"
+      ],
+      "kind": "primary",
+      "enabled": false,
+      "collection": "Awaiting verification / access"
+    },
+    {
+      "id": "s029",
+      "name": "MNN Centre for Investigative Journalism",
+      "url": "https://lescij.org/",
+      "countries": [
+        "Lesotho"
+      ],
+      "kind": "reporting",
+      "enabled": true,
+      "collection": "Responding"
+    },
+    {
+      "id": "s030",
+      "name": "Central Bank Lesotho",
+      "url": "https://www.centralbank.org.ls/",
+      "countries": [
+        "Lesotho"
+      ],
+      "kind": "primary",
+      "enabled": false,
+      "collection": "Awaiting verification / access"
+    },
+    {
+      "id": "s031",
+      "name": "Inhlase",
+      "url": "https://inhlase.com/",
+      "countries": [
+        "Eswatini"
+      ],
+      "kind": "reporting",
+      "enabled": false,
+      "collection": "Awaiting verification / access"
+    },
+    {
+      "id": "s032",
+      "name": "Central Bank Eswatini",
+      "url": "https://www.centralbank.org.sz/",
+      "countries": [
+        "Eswatini"
+      ],
+      "kind": "primary",
+      "enabled": false,
+      "collection": "Awaiting verification / access"
+    },
+    {
+      "id": "s033",
+      "name": "Addis Standard",
+      "url": "https://addisstandard.com/",
+      "countries": [
+        "Ethiopia"
+      ],
+      "kind": "reporting",
+      "enabled": false,
+      "collection": "Awaiting verification / access"
+    },
+    {
+      "id": "s034",
+      "name": "National Bank Ethiopia",
+      "url": "https://nbe.gov.et/",
+      "countries": [
+        "Ethiopia"
+      ],
+      "kind": "primary",
+      "enabled": false,
+      "collection": "Awaiting verification / access"
+    },
+    {
+      "id": "s035",
+      "name": "Shabait Ministry of Information",
+      "url": "https://shabait.com/",
+      "countries": [
+        "Eritrea"
+      ],
+      "kind": "official-media",
+      "enabled": true,
+      "collection": "Access gap"
+    },
+    {
+      "id": "s036",
+      "name": "UN human rights Eritrea",
+      "url": "https://www.ohchr.org/en/countries/eritrea",
+      "countries": [
+        "Eritrea"
+      ],
+      "kind": "primary",
+      "enabled": false,
+      "collection": "Awaiting verification / access"
+    },
+    {
+      "id": "s037",
+      "name": "La Nation",
+      "url": "https://www.lanation.dj/",
+      "countries": [
+        "Djibouti"
+      ],
+      "kind": "official-media",
+      "enabled": false,
+      "collection": "Awaiting verification / access"
+    },
+    {
+      "id": "s038",
+      "name": "Central Bank Djibouti",
+      "url": "https://banque-centrale.dj/",
+      "countries": [
+        "Djibouti"
+      ],
+      "kind": "primary",
+      "enabled": false,
+      "collection": "Awaiting verification / access"
+    },
+    {
+      "id": "s039",
+      "name": "Hiiraan Online",
+      "url": "https://hiiraan.com/",
+      "countries": [
+        "Somalia"
+      ],
+      "kind": "reporting",
+      "enabled": false,
+      "collection": "Awaiting verification / access"
+    },
+    {
+      "id": "s040",
+      "name": "Auditor General Somalia",
+      "url": "https://oag.gov.so/",
+      "countries": [
+        "Somalia"
+      ],
+      "kind": "primary",
+      "enabled": false,
+      "collection": "Awaiting verification / access"
+    },
+    {
+      "id": "s041",
+      "name": "Eye Radio",
+      "url": "https://eyeradio.org/",
+      "countries": [
+        "South Sudan"
+      ],
+      "kind": "reporting",
+      "enabled": true,
+      "collection": "Responding"
+    },
+    {
+      "id": "s042",
+      "name": "UNMISS",
+      "url": "https://unmiss.unmissions.org/",
+      "countries": [
+        "South Sudan"
+      ],
+      "kind": "primary",
+      "enabled": false,
+      "collection": "Awaiting verification / access"
+    },
+    {
+      "id": "s043",
+      "name": "Dabanga",
+      "url": "https://www.dabangasudan.org/",
+      "countries": [
+        "Sudan"
+      ],
+      "kind": "reporting",
+      "enabled": true,
+      "collection": "Responding"
+    },
+    {
+      "id": "s044",
+      "name": "OHCHR Sudan",
+      "url": "https://www.ohchr.org/en/countries/sudan",
+      "countries": [
+        "Sudan"
+      ],
+      "kind": "primary",
+      "enabled": false,
+      "collection": "Awaiting verification / access"
+    },
+    {
+      "id": "s045",
+      "name": "Madagascar Tribune",
+      "url": "https://www.madagascar-tribune.com/",
+      "countries": [
+        "Madagascar"
+      ],
+      "kind": "reporting",
+      "enabled": true,
+      "collection": "Responding"
+    },
+    {
+      "id": "s046",
+      "name": "Central Bank Madagascar",
+      "url": "https://www.banky-foibe.mg/",
+      "countries": [
+        "Madagascar"
+      ],
+      "kind": "primary",
+      "enabled": false,
+      "collection": "Awaiting verification / access"
+    },
+    {
+      "id": "s047",
+      "name": "L'Express",
+      "url": "https://lexpress.mu/",
+      "countries": [
+        "Mauritius"
+      ],
+      "kind": "reporting",
+      "enabled": true,
+      "collection": "Access gap"
+    },
+    {
+      "id": "s048",
+      "name": "Bank of Mauritius",
+      "url": "https://www.bom.mu/",
+      "countries": [
+        "Mauritius"
+      ],
+      "kind": "primary",
+      "enabled": false,
+      "collection": "Awaiting verification / access"
+    },
+    {
+      "id": "s049",
+      "name": "Seychelles News Agency",
+      "url": "https://www.seychellesnewsagency.com/",
+      "countries": [
+        "Seychelles"
+      ],
+      "kind": "reporting",
+      "enabled": false,
+      "collection": "Awaiting verification / access"
+    },
+    {
+      "id": "s050",
+      "name": "Central Bank Seychelles",
+      "url": "https://www.cbs.sc/",
+      "countries": [
+        "Seychelles"
+      ],
+      "kind": "primary",
+      "enabled": false,
+      "collection": "Awaiting verification / access"
+    },
+    {
+      "id": "s051",
+      "name": "Al-Watwan",
+      "url": "https://alwatwan.net/",
+      "countries": [
+        "Comoros"
+      ],
+      "kind": "reporting",
+      "enabled": false,
+      "collection": "Awaiting verification / access"
+    },
+    {
+      "id": "s052",
+      "name": "Central Bank Comoros",
+      "url": "https://banque-comores.km/",
+      "countries": [
+        "Comoros"
+      ],
+      "kind": "primary",
+      "enabled": false,
+      "collection": "Awaiting verification / access"
+    },
+    {
+      "id": "s053",
+      "name": "Open Secrets",
+      "url": "https://www.opensecrets.org.za/investigations/",
+      "countries": [
+        "South Africa",
+        "Zimbabwe",
+        "Rwanda"
+      ],
+      "kind": "research",
+      "enabled": true,
+      "collection": "Responding"
+    },
+    {
+      "id": "s054",
+      "name": "PSiRA annual reports",
+      "url": "https://www.psira.co.za/index.php/publicity/annual-reports",
+      "countries": [
+        "South Africa"
+      ],
+      "kind": "primary",
+      "enabled": true,
+      "collection": "Access gap"
+    },
+    {
+      "id": "s055",
+      "name": "IPIS defence-related companies",
+      "url": "https://ipisresearch.be/fr/project/defence-related-companies-africa/",
+      "countries": [
+        "Regional"
+      ],
+      "kind": "research",
+      "enabled": true,
+      "collection": "Responding"
+    },
+    {
+      "id": "s056",
+      "name": "SIPRI PMSC research",
+      "url": "https://www.sipri.org/yearbook/2023/04",
+      "countries": [
+        "Regional"
+      ],
+      "kind": "research",
+      "enabled": true,
+      "collection": "Responding"
+    },
+    {
+      "id": "s057",
+      "name": "OpenSanctions documentation",
+      "url": "https://www.opensanctions.org/docs/",
+      "countries": [
+        "Regional"
+      ],
+      "kind": "reference",
+      "enabled": true,
+      "collection": "Responding"
+    },
+    {
+      "id": "s058",
+      "name": "Wits digital archive",
+      "url": "https://www.wits.ac.za/historicalpapers/digital-archive/",
+      "countries": [
+        "South Africa"
+      ],
+      "kind": "archive",
+      "enabled": true,
+      "collection": "Responding"
+    },
+    {
+      "id": "s059",
+      "name": "Tanzania National Archives",
+      "url": "https://www.nyaraka.go.tz/pages/archives-collections",
+      "countries": [
+        "Tanzania"
+      ],
+      "kind": "archive",
+      "enabled": true,
+      "collection": "Access gap"
+    },
+    {
+      "id": "s060",
+      "name": "Abantu Archives",
+      "url": "https://abantuarchives.com/",
+      "countries": [
+        "Zimbabwe",
+        "Zambia",
+        "Malawi",
+        "Mozambique"
+      ],
+      "kind": "archive",
+      "enabled": true,
+      "collection": "Responding"
+    },
+    {
+      "id": "s061",
+      "name": "Colonial administration files",
+      "url": "https://www.gov.uk/guidance/colonial-administration-files",
+      "countries": [
+        "Regional"
+      ],
+      "kind": "archive",
+      "enabled": true,
+      "collection": "Responding"
+    },
+    {
+      "id": "s062",
+      "name": "Kenya Auditor General",
+      "url": "https://www.oagkenya.go.ke/",
+      "countries": [
+        "Kenya"
+      ],
+      "kind": "primary",
+      "enabled": true,
+      "collection": "Responding"
+    },
+    {
+      "id": "s063",
+      "name": "Tanzania National Audit Office",
+      "url": "https://www.nao.go.tz/",
+      "countries": [
+        "Tanzania"
+      ],
+      "kind": "primary",
+      "enabled": true,
+      "collection": "Responding"
+    },
+    {
+      "id": "s064",
+      "name": "South Africa Parliament",
+      "url": "https://www.parliament.gov.za/",
+      "countries": [
+        "South Africa"
+      ],
+      "kind": "primary",
+      "enabled": true,
+      "collection": "Responding"
+    },
+    {
+      "id": "s065",
+      "name": "SAFLII",
+      "url": "https://www.saflii.org/",
+      "countries": [
+        "South Africa"
+      ],
+      "kind": "primary",
+      "enabled": true,
+      "collection": "Access gap"
+    },
+    {
+      "id": "s066",
+      "name": "UN Security Council documents",
+      "url": "https://main.un.org/securitycouncil/en",
+      "countries": [
+        "Regional"
+      ],
+      "kind": "primary",
+      "enabled": false,
+      "collection": "Awaiting verification / access"
+    },
+    {
+      "id": "s067",
+      "name": "SADC fisheries investigations",
+      "url": "https://sadcmcscc.org/resources/fish-i-africa-issues-investigations-impacts/",
+      "countries": [
+        "Comoros",
+        "Kenya",
+        "Madagascar",
+        "Mauritius",
+        "Mozambique",
+        "Seychelles",
+        "Somalia",
+        "Tanzania"
+      ],
+      "kind": "research",
+      "enabled": true,
+      "collection": "Responding"
+    }
+  ]
+};

@@ -1,0 +1,1 @@
+{"name":"africa-desk-dashboard","private":true,"type":"module","version":"1.0.0","engines":{"node":">=22"},"scripts":{"build":"node scripts/build.mjs","test":"node --test scripts/build.test.mjs","preview":"node scripts/preview.mjs"}}

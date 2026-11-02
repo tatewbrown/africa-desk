@@ -1,7 +1,27 @@
 {
   "schemaVersion": 1,
-  "publishedAt": "2026-10-31T16:22:23.999Z",
+  "publishedAt": "2026-11-02T14:55:23.940Z",
   "editions": [
+    {
+      "date": "2026-11-02",
+      "label": "RESEARCH PASS · ACCESS GAPS REMAIN",
+      "headline": "No new original finding cleared review.",
+      "summary": "Reviewed public audit and archive routes and screened newly collected reporting. One Mauritius audit implementation question remains in the research queue; access and prior-coverage gaps prevent a stronger conclusion.",
+      "newDevelopedLeads": 0,
+      "health": {
+        "ok": 73,
+        "unavailable": 12,
+        "adapters": 4
+      },
+      "activeLeadIds": [
+        "tanzania-aircraft",
+        "zambia-recordings",
+        "sa-prison-records",
+        "botswana-recruitment"
+      ],
+      "fileNote": "Earlier reporting leads carried forward with their original review dates. No unchanged lead is presented as a new discovery.",
+      "queueNote": "Mauritius: verify what changed after the 2025 NLTA audit. Tanzania’s internal E-Office announcement does not establish new public access to colonial records. Kenya recruitment commitments are already reported; no independently verified implementation finding was added."
+    },
     {
       "date": "2026-10-31",
       "label": "RESEARCH PASS · COVERAGE GAPS REMAIN",
@@ -210,7 +230,7 @@
       "summary": "Parliament’s defence committee flags recurring late notifications and asks for an itemised cost breakdown for the KwaZulu-Natal deployment. The deployment itself is already reported.",
       "angle": "Reconstruct the authorization, start date and parliamentary receipt timeline, then compare estimated and actual spending. This is a proposed follow-up, not an established oversight failure by this desk.",
       "evidence": "The 30 October parliamentary statement, locally extracted paragraphs 32–37, records committee support, its complaint about repeated notification delays, and its request for detailed costs. The reader flags navigation contamination; the relevant body paragraphs were inspected. This is the committee’s account, not a judicial finding.",
-      "priorCoverage": "An AP search result dated 27 October already describes the deployment and an estimated R34 million cost. Its direct page could not be retrieved in this run; search text is a coverage pointer, not independently verified evidence. The parliamentary complaint is public, so originality remains unconfirmed.",
+      "priorCoverage": "Babalo Ndenze at EWN already reported the late notice and minister’s explanation on 30 October. The government’s 27 October statement publishes the authorized period and estimated cost. Earlier parliamentary complaints show recurrence; only a checked comparison of original notification records could add a distinct contribution.",
       "gaps": "The authorization letter, parliamentary receipt date, committee correspondence, itemised budget and actual spending have not been obtained. No legal breach is established here. Local-language searches were weak.",
       "steps": [
         "Locate the presidential notification and parliamentary receipt record.",
@@ -225,6 +245,14 @@
         {
           "label": "AP — earlier deployment coverage (direct retrieval failed)",
           "url": "https://apnews.com/article/11f0f2ca27ddac047427bc9ba899acb9"
+        },
+        {
+          "label": "Babalo Ndenze / EWN — delay and minister’s explanation",
+          "url": "https://www.ewn.co.za/2026/10/30/soldiers-had-to-deployed-overnight-with-little-time-to-inform-parly-motshekga"
+        },
+        {
+          "label": "Government — deployment period and estimated expenditure",
+          "url": "https://www.gov.za/news/media-statements/president-cyril-ramaphosa-deploys-south-african-national-defence-force"
         }
       ]
     },
@@ -238,7 +266,7 @@
       "summary": "MakanDay editor Charles Mafa’s published interview offers a reporting route into evidence-sharing and domestic investigations. It must be credited as MakanDay’s work.",
       "angle": "Establish whether relevant authorities sought evidence or opened specific intermediary investigations, using dated records rather than assuming inaction.",
       "evidence": "MakanDay’s 30 October interview, local paragraphs 13–25, attributes Zambia’s omission to the commission’s corroboration threshold and discusses evidence-sharing with judicial bodies. The interview does not identify which governments replied to requests.",
-      "priorCoverage": "Charles Mafa has already reported this interview, with related MakanDay coverage and a 27 October version found in searches. Repackaging it would add no original contribution.",
+      "priorCoverage": "Charles Mafa has already reported this interview, with related MakanDay coverage and a 27 October version found in searches. Repackaging it would add no original contribution. Earlier MakanDay Alabuga coverage already asked whether the authorities had investigated; a new case record or substantive dated response is needed to advance that work.",
       "gaps": "The underlying commission report and Zambia-specific correspondence were not obtained. Omission from a report does not prove that recruitment did not happen, or that authorities ignored a request. Extracted names have encoding artefacts; paraphrase cautiously.",
       "steps": [
         "Retrieve the underlying commission report and check its methodology and country references.",
@@ -263,7 +291,7 @@
       "angle": "Locate one accessible collection or oral-history record and establish its provenance, access conditions and what it adds beyond published scholarship.",
       "evidence": "Roberts’s essay, locally extracted paragraphs 6, 8 and 11, discusses oral-history work, a forthcoming departmental volume and research notes. These descriptions are attributed to the author; no underlying archival file was examined.",
       "priorCoverage": "Iliffe’s scholarship is long established. Searches found his 1997 Tanzania Zamani article TANU and the Colonial Office, alongside earlier bibliographic and obituary material. The article abstract explicitly distinguishes British policy records from the African archives needed for a fuller history.",
-      "gaps": "No collection reference, archival scan, new release or independently confirmed access restriction was established. Direct retrieval of the Tanzania Zamani page timed out. Catalogue dates are not release dates.",
+      "gaps": "No collection reference, archival scan, new release or independently confirmed access restriction was established. Direct retrieval of the Tanzania Zamani page timed out. Catalogue dates are not release dates. The CCCW catalogue locates a separate Iliffe collection concerning Buganda/Uganda; this does not locate the Tanzanian TANU notes.",
       "steps": [
         "Locate the collection catalogue and verify repository and consultation conditions.",
         "Identify African-authored records and relevant Tanzanian scholarship.",
@@ -279,6 +307,34 @@
           "url": "https://journals.udsm.ac.tz/index.php/tz/article/view/2355"
         }
       ]
+    },
+    {
+      "id": "mauritius-nlta-implementation",
+      "title": "What changed after Mauritius’s transport-system audit?",
+      "country": "Mauritius",
+      "beat": "Politics & power",
+      "status": "Research queue",
+      "firstReviewed": "2026-11-02",
+      "summary": "A June 2025 audit provides a dated implementation question. It does not establish the condition of the licensing system today.",
+      "angle": "Obtain a current replacement contract, completion record and service-performance evidence to test what changed after the audit. No new discrepancy has been established.",
+      "evidence": "The National Audit Office performance audit, physical PDF pages 40 and 42 (printed 32 and 34), describes the then-outstanding system replacement, recommendations and the ministry’s response. Both pages were visually checked. The ministry said work on the system was planned; its response must accompany the criticism.",
+      "priorCoverage": "Older National Audit Office annual reports already discuss the outdated system. English and French searches found existing audit material and coverage; no absence-of-coverage claim is made. Repeating a 2025 finding is not an original story.",
+      "gaps": "No current contract, completion certificate or service-performance record was obtained. The much larger annual report exceeded the reader’s size limit. Search coverage remains incomplete.",
+      "steps": [
+        "Locate the replacement award, amendments and completion record.",
+        "Compare current service-performance evidence with the audit’s recommendations and ministry response.",
+        "Check earlier local reporting and prepare institutional questions before proposing a new finding."
+      ],
+      "sources": [
+        {
+          "label": "National Audit Office — June 2025 NLTA performance audit, PDF pp.40 and 42",
+          "url": "https://nao.govmu.org/nao/wp-content/uploads/PerformanceAuditReport/2025/NLTA-Report.pdf"
+        },
+        {
+          "label": "Earlier National Audit Office annual report — prior audit context",
+          "url": "https://nao.govmu.org/nao/wp-content/uploads/AnnualAuditReport/2022-23/AR2022-23_Mauritius.pdf"
+        }
+      ]
     }
   ],
   "sources": [
@@ -291,7 +347,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s002",
@@ -302,7 +358,7 @@
       ],
       "kind": "primary",
       "enabled": true,
-      "collection": "31 Oct check: unavailable — Robots redirect needs manual review"
+      "collection": "2 Nov check: unavailable — Robots redirect needs manual review"
     },
     {
       "id": "s003",
@@ -313,7 +369,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s004",
@@ -324,7 +380,7 @@
       ],
       "kind": "primary",
       "enabled": true,
-      "collection": "31 Oct check: needs dedicated reader"
+      "collection": "2 Nov check: needs dedicated reader"
     },
     {
       "id": "s005",
@@ -335,7 +391,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s006",
@@ -346,7 +402,7 @@
       ],
       "kind": "primary",
       "enabled": true,
-      "collection": "31 Oct check: needs dedicated reader"
+      "collection": "2 Nov check: needs dedicated reader"
     },
     {
       "id": "s007",
@@ -357,7 +413,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s008",
@@ -368,7 +424,7 @@
       ],
       "kind": "primary",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s009",
@@ -379,7 +435,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "31 Oct check: unavailable — HTTP 403"
+      "collection": "2 Nov check: unavailable — HTTP 403"
     },
     {
       "id": "s010",
@@ -390,7 +446,7 @@
       ],
       "kind": "primary",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s011",
@@ -412,7 +468,7 @@
       ],
       "kind": "primary",
       "enabled": true,
-      "collection": "31 Oct check: unavailable — fetch failed"
+      "collection": "2 Nov check: needs dedicated reader"
     },
     {
       "id": "s013",
@@ -423,7 +479,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s014",
@@ -434,7 +490,7 @@
       ],
       "kind": "primary",
       "enabled": true,
-      "collection": "31 Oct check: needs dedicated reader"
+      "collection": "2 Nov check: needs dedicated reader"
     },
     {
       "id": "s015",
@@ -445,7 +501,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "31 Oct check: unavailable — Robots unavailable: 403"
+      "collection": "2 Nov check: unavailable — Robots unavailable: 403"
     },
     {
       "id": "s016",
@@ -489,7 +545,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s020",
@@ -511,7 +567,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s022",
@@ -533,7 +589,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s024",
@@ -544,7 +600,7 @@
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s025",
@@ -555,7 +611,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s026",
@@ -577,7 +633,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s028",
@@ -599,7 +655,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s030",
@@ -665,7 +721,7 @@
       ],
       "kind": "official-media",
       "enabled": true,
-      "collection": "31 Oct check: unavailable — Robots unavailable: 403"
+      "collection": "2 Nov check: unavailable — Robots unavailable: 403"
     },
     {
       "id": "s036",
@@ -731,7 +787,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s042",
@@ -753,7 +809,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s044",
@@ -775,7 +831,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s046",
@@ -797,7 +853,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "31 Oct check: unavailable — HTTP 403"
+      "collection": "2 Nov check: unavailable — HTTP 403"
     },
     {
       "id": "s048",
@@ -865,7 +921,7 @@
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "31 Oct check: unavailable — The operation was aborted due to timeout"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s054",
@@ -876,7 +932,7 @@
       ],
       "kind": "primary",
       "enabled": true,
-      "collection": "31 Oct check: unavailable — fetch failed"
+      "collection": "2 Nov check: unavailable — fetch failed"
     },
     {
       "id": "s055",
@@ -887,7 +943,7 @@
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s056",
@@ -898,7 +954,7 @@
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s057",
@@ -909,7 +965,7 @@
       ],
       "kind": "reference",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s058",
@@ -920,7 +976,7 @@
       ],
       "kind": "archive",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s059",
@@ -931,7 +987,7 @@
       ],
       "kind": "archive",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s060",
@@ -945,7 +1001,7 @@
       ],
       "kind": "archive",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s061",
@@ -956,7 +1012,7 @@
       ],
       "kind": "archive",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s062",
@@ -967,7 +1023,7 @@
       ],
       "kind": "primary",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s063",
@@ -978,7 +1034,7 @@
       ],
       "kind": "primary",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s064",
@@ -989,7 +1045,7 @@
       ],
       "kind": "primary",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s065",
@@ -1000,7 +1056,7 @@
       ],
       "kind": "primary",
       "enabled": true,
-      "collection": "31 Oct check: unavailable — HTTP 403"
+      "collection": "2 Nov check: unavailable — HTTP 403"
     },
     {
       "id": "s066",
@@ -1029,7 +1085,7 @@
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: unavailable — HTTP 403"
     },
     {
       "id": "s068",
@@ -1106,7 +1162,7 @@
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s075",
@@ -1117,7 +1173,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: unavailable — HTTP 403"
     },
     {
       "id": "s076",
@@ -1128,7 +1184,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s077",
@@ -1161,7 +1217,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s080",
@@ -1172,7 +1228,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s081",
@@ -1205,7 +1261,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s084",
@@ -1249,7 +1305,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s088",
@@ -1293,7 +1349,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: unavailable — Robots unavailable: 403"
     },
     {
       "id": "s092",
@@ -1304,7 +1360,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s093",
@@ -1326,7 +1382,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s095",
@@ -1337,7 +1393,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s096",
@@ -1348,7 +1404,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s097",
@@ -1436,7 +1492,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s105",
@@ -1458,7 +1514,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s107",
@@ -1480,7 +1536,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s109",
@@ -1491,7 +1547,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s110",
@@ -1502,7 +1558,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s111",
@@ -1524,7 +1580,7 @@
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s113",
@@ -1535,7 +1591,7 @@
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s114",
@@ -1546,7 +1602,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s115",
@@ -1557,7 +1613,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s116",
@@ -1568,7 +1624,7 @@
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s117",
@@ -1590,7 +1646,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s119",
@@ -1612,7 +1668,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: unavailable — Blocked by robots.txt"
     },
     {
       "id": "s121",
@@ -1623,7 +1679,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s122",
@@ -1645,7 +1701,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s124",
@@ -1700,7 +1756,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s129",
@@ -1711,7 +1767,7 @@
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s130",
@@ -1733,7 +1789,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s132",
@@ -1755,7 +1811,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s134",
@@ -1766,7 +1822,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s135",
@@ -1788,7 +1844,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s137",
@@ -1799,7 +1855,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s138",
@@ -1832,7 +1888,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s141",
@@ -1843,7 +1899,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s142",
@@ -1854,7 +1910,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s143",
@@ -1865,7 +1921,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s144",
@@ -1887,7 +1943,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s146",
@@ -1898,7 +1954,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s147",
@@ -1909,7 +1965,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: unavailable — HTTP 403"
     },
     {
       "id": "s148",
@@ -1942,7 +1998,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s151",
@@ -1953,7 +2009,7 @@
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s152",
@@ -1964,7 +2020,7 @@
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s153",
@@ -1975,7 +2031,7 @@
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s154",
@@ -1997,7 +2053,7 @@
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s156",
@@ -2008,7 +2064,7 @@
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s157",
@@ -2019,7 +2075,7 @@
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s158",
@@ -2030,7 +2086,7 @@
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s159",
@@ -2041,7 +2097,7 @@
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "31 Oct check: listings extracted"
+      "collection": "2 Nov check: listings extracted"
     },
     {
       "id": "s160",

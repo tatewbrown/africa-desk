@@ -1,7 +1,27 @@
 window.AFRICA_DESK = {
   "schemaVersion": 1,
-  "publishedAt": "2026-11-04T12:09:14.576Z",
+  "publishedAt": "2026-11-06T00:24:13.363Z",
   "editions": [
+    {
+      "date": "2026-11-05",
+      "label": "RESEARCH INCOMPLETE · COLLECTION TRANSPORT FAILURES",
+      "headline": "No new original finding cleared; collection was disrupted.",
+      "summary": "The first pass returned listings from 36 of 89 routes. Access rechecks restored 34 more, but did not ingest their fresh candidates. Three audit/archive prospects were reviewed with gaps retained; one Somalia records question remains queued.",
+      "newDevelopedLeads": 0,
+      "health": {
+        "ok": 70,
+        "unavailable": 15,
+        "adapters": 4
+      },
+      "activeLeadIds": [
+        "tanzania-aircraft",
+        "zambia-recordings",
+        "sa-prison-records",
+        "botswana-recruitment"
+      ],
+      "fileNote": "Earlier reporting directions carried forward with their original review dates. Health counts include access-only rechecks and do not imply complete fresh-link collection.",
+      "queueNote": "Somalia: reconcile one donor handover with police asset records before drawing conclusions. Uganda ITMS audit delays are already reported; original records remain missing. Malawi archive metadata is not a newly released historical finding."
+    },
     {
       "date": "2026-11-04",
       "label": "RESEARCH PASS · NO NEW FINDING CLEARED",
@@ -407,6 +427,30 @@ window.AFRICA_DESK = {
           "url": "https://eap.bl.uk/project/EAP1808"
         }
       ]
+    },
+    {
+      "id": "somalia-police-donor-registers",
+      "title": "Can donor handover records be reconciled with Somalia’s police asset register?",
+      "country": "Somalia",
+      "beat": "Politics & power",
+      "status": "Research queue",
+      "firstReviewed": "2026-11-05",
+      "summary": "A published audit identifies a police record-keeping gap. No missing equipment, diversion or current operational weakness was independently established.",
+      "angle": "Compare one non-sensitive donor handover record with the corresponding asset-registration and corrective-action records, establishing dates and scope before alleging any discrepancy.",
+      "evidence": "Somalia’s 2025 compliance-audit summary, dated 30 June 2026, physical PDF p.10 (printed ix), attributes a donor-funded asset-register/SFMIS recording failure to the Somali Police Force. The page was rendered and visually checked. This is an audit finding about the reviewed period.",
+      "priorCoverage": "The audit is already public. Searches located earlier finance reporting and a UN OIOS audit concerning police support; the OIOS page was blocked, so its findings and overlap were not verified. Originality remains unconfirmed.",
+      "gaps": "No specific donor handover, asset match, entity response or subsequent correction was obtained. Registration gaps do not prove theft. This concerns a state police force, not automatically a PMC.",
+      "steps": [
+        "Identify a public, non-sensitive donor handover record and its audit period.",
+        "Obtain the corresponding register entry and documented response or correction.",
+        "Compare dates and reporting scope with earlier oversight work; prepare questions without publishing live asset locations."
+      ],
+      "sources": [
+        {
+          "label": "Somalia OAG — 2025 compliance-audit summary, physical PDF p.10",
+          "url": "https://oag.gov.so/wp-content/uploads/2026/09/Summary-Compliance-Audit-Report-2025_compressed.pdf"
+        }
+      ]
     }
   ],
   "sources": [
@@ -419,7 +463,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov collection: listings extracted"
     },
     {
       "id": "s002",
@@ -430,7 +474,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "primary",
       "enabled": true,
-      "collection": "4 Nov check: unavailable — The operation was aborted due to timeout"
+      "collection": "5 Nov collection: unavailable — The operation was aborted due to timeout"
     },
     {
       "id": "s003",
@@ -441,7 +485,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov collection: listings extracted"
     },
     {
       "id": "s004",
@@ -452,7 +496,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "primary",
       "enabled": true,
-      "collection": "4 Nov check: needs dedicated reader"
+      "collection": "5 Nov collection: needs dedicated reader"
     },
     {
       "id": "s005",
@@ -463,7 +507,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov collection: listings extracted"
     },
     {
       "id": "s006",
@@ -474,7 +518,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "primary",
       "enabled": true,
-      "collection": "4 Nov check: needs dedicated reader"
+      "collection": "5 Nov collection: needs dedicated reader"
     },
     {
       "id": "s007",
@@ -485,7 +529,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov collection: listings extracted"
     },
     {
       "id": "s008",
@@ -496,7 +540,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "primary",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov collection: listings extracted"
     },
     {
       "id": "s009",
@@ -507,7 +551,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "4 Nov check: unavailable — HTTP 403"
+      "collection": "5 Nov collection: unavailable — HTTP 403"
     },
     {
       "id": "s010",
@@ -518,7 +562,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "primary",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov collection: listings extracted"
     },
     {
       "id": "s011",
@@ -540,7 +584,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "primary",
       "enabled": true,
-      "collection": "4 Nov check: unavailable — fetch failed"
+      "collection": "5 Nov collection: needs dedicated reader"
     },
     {
       "id": "s013",
@@ -551,7 +595,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov collection: listings extracted"
     },
     {
       "id": "s014",
@@ -562,7 +606,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "primary",
       "enabled": true,
-      "collection": "4 Nov check: needs dedicated reader"
+      "collection": "5 Nov collection: needs dedicated reader"
     },
     {
       "id": "s015",
@@ -573,7 +617,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "4 Nov check: unavailable — Robots unavailable: 403"
+      "collection": "5 Nov collection: unavailable — Robots unavailable: 403"
     },
     {
       "id": "s016",
@@ -617,7 +661,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov collection: listings extracted"
     },
     {
       "id": "s020",
@@ -639,7 +683,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov collection: listings extracted"
     },
     {
       "id": "s022",
@@ -661,7 +705,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov collection: listings extracted"
     },
     {
       "id": "s024",
@@ -672,7 +716,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov collection: listings extracted"
     },
     {
       "id": "s025",
@@ -683,7 +727,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov collection: listings extracted"
     },
     {
       "id": "s026",
@@ -705,7 +749,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov collection: listings extracted"
     },
     {
       "id": "s028",
@@ -727,7 +771,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov collection: listings extracted"
     },
     {
       "id": "s030",
@@ -793,7 +837,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "official-media",
       "enabled": true,
-      "collection": "4 Nov check: unavailable — Robots unavailable: 403"
+      "collection": "5 Nov collection: unavailable — Robots unavailable: 403"
     },
     {
       "id": "s036",
@@ -859,7 +903,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov collection: unavailable — The operation was aborted due to timeout"
     },
     {
       "id": "s042",
@@ -881,7 +925,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov collection: listings extracted"
     },
     {
       "id": "s044",
@@ -903,7 +947,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov collection: listings extracted"
     },
     {
       "id": "s046",
@@ -925,7 +969,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "4 Nov check: unavailable — HTTP 403"
+      "collection": "5 Nov collection: unavailable — HTTP 403"
     },
     {
       "id": "s048",
@@ -993,7 +1037,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov collection: listings extracted"
     },
     {
       "id": "s054",
@@ -1004,7 +1048,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "primary",
       "enabled": true,
-      "collection": "4 Nov check: unavailable — fetch failed"
+      "collection": "5 Nov collection: unavailable — fetch failed"
     },
     {
       "id": "s055",
@@ -1015,7 +1059,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov collection: listings extracted"
     },
     {
       "id": "s056",
@@ -1026,7 +1070,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov collection: listings extracted"
     },
     {
       "id": "s057",
@@ -1037,7 +1081,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reference",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov collection: listings extracted"
     },
     {
       "id": "s058",
@@ -1048,7 +1092,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "archive",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov collection: listings extracted"
     },
     {
       "id": "s059",
@@ -1059,7 +1103,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "archive",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov access recheck: listings extracted"
     },
     {
       "id": "s060",
@@ -1073,7 +1117,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "archive",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov collection: listings extracted"
     },
     {
       "id": "s061",
@@ -1084,7 +1128,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "archive",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov collection: listings extracted"
     },
     {
       "id": "s062",
@@ -1095,7 +1139,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "primary",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov collection: listings extracted"
     },
     {
       "id": "s063",
@@ -1106,7 +1150,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "primary",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov collection: listings extracted"
     },
     {
       "id": "s064",
@@ -1117,7 +1161,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "primary",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov collection: listings extracted"
     },
     {
       "id": "s065",
@@ -1128,7 +1172,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "primary",
       "enabled": true,
-      "collection": "4 Nov check: unavailable — HTTP 403"
+      "collection": "5 Nov collection: unavailable — HTTP 403"
     },
     {
       "id": "s066",
@@ -1157,7 +1201,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "4 Nov check: unavailable — HTTP 403"
+      "collection": "5 Nov collection: unavailable — HTTP 403"
     },
     {
       "id": "s068",
@@ -1234,7 +1278,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov collection: listings extracted"
     },
     {
       "id": "s075",
@@ -1245,7 +1289,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "4 Nov check: unavailable — HTTP 403"
+      "collection": "5 Nov collection: unavailable — HTTP 403"
     },
     {
       "id": "s076",
@@ -1256,7 +1300,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov collection: listings extracted"
     },
     {
       "id": "s077",
@@ -1289,7 +1333,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "4 Nov check: unavailable — fetch failed"
+      "collection": "5 Nov collection: unavailable — The operation was aborted due to timeout"
     },
     {
       "id": "s080",
@@ -1300,7 +1344,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov collection: listings extracted"
     },
     {
       "id": "s081",
@@ -1333,7 +1377,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov collection: listings extracted"
     },
     {
       "id": "s084",
@@ -1377,7 +1421,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov collection: listings extracted"
     },
     {
       "id": "s088",
@@ -1421,7 +1465,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "4 Nov check: unavailable — Robots unavailable: 403"
+      "collection": "5 Nov collection: unavailable — Robots unavailable: 403"
     },
     {
       "id": "s092",
@@ -1432,7 +1476,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov collection: listings extracted"
     },
     {
       "id": "s093",
@@ -1454,7 +1498,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov collection: listings extracted"
     },
     {
       "id": "s095",
@@ -1465,7 +1509,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov collection: listings extracted"
     },
     {
       "id": "s096",
@@ -1476,7 +1520,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov collection: unavailable — The operation was aborted due to timeout"
     },
     {
       "id": "s097",
@@ -1564,7 +1608,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov collection: listings extracted"
     },
     {
       "id": "s105",
@@ -1586,7 +1630,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov collection: listings extracted"
     },
     {
       "id": "s107",
@@ -1608,7 +1652,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov access recheck: listings extracted"
     },
     {
       "id": "s109",
@@ -1619,7 +1663,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov access recheck: listings extracted"
     },
     {
       "id": "s110",
@@ -1630,7 +1674,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov access recheck: listings extracted"
     },
     {
       "id": "s111",
@@ -1652,7 +1696,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov access recheck: listings extracted"
     },
     {
       "id": "s113",
@@ -1663,7 +1707,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov access recheck: listings extracted"
     },
     {
       "id": "s114",
@@ -1674,7 +1718,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov access recheck: listings extracted"
     },
     {
       "id": "s115",
@@ -1685,7 +1729,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov access recheck: listings extracted"
     },
     {
       "id": "s116",
@@ -1696,7 +1740,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov access recheck: listings extracted"
     },
     {
       "id": "s117",
@@ -1718,7 +1762,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov access recheck: listings extracted"
     },
     {
       "id": "s119",
@@ -1740,7 +1784,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "4 Nov check: unavailable — Blocked by robots.txt"
+      "collection": "5 Nov collection: unavailable — Blocked by robots.txt"
     },
     {
       "id": "s121",
@@ -1751,7 +1795,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov access recheck: listings extracted"
     },
     {
       "id": "s122",
@@ -1773,7 +1817,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov access recheck: listings extracted"
     },
     {
       "id": "s124",
@@ -1828,7 +1872,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov access recheck: listings extracted"
     },
     {
       "id": "s129",
@@ -1839,7 +1883,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov access recheck: listings extracted"
     },
     {
       "id": "s130",
@@ -1861,7 +1905,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov access recheck: listings extracted"
     },
     {
       "id": "s132",
@@ -1883,7 +1927,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov access recheck: listings extracted"
     },
     {
       "id": "s134",
@@ -1894,7 +1938,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov access recheck: listings extracted"
     },
     {
       "id": "s135",
@@ -1916,7 +1960,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov access recheck: listings extracted"
     },
     {
       "id": "s137",
@@ -1927,7 +1971,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov access recheck: listings extracted"
     },
     {
       "id": "s138",
@@ -1960,7 +2004,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov access recheck: listings extracted"
     },
     {
       "id": "s141",
@@ -1971,7 +2015,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov access recheck: listings extracted"
     },
     {
       "id": "s142",
@@ -1982,7 +2026,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov access recheck: listings extracted"
     },
     {
       "id": "s143",
@@ -1993,7 +2037,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov access recheck: listings extracted"
     },
     {
       "id": "s144",
@@ -2015,7 +2059,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov access recheck: listings extracted"
     },
     {
       "id": "s146",
@@ -2026,7 +2070,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov access recheck: listings extracted"
     },
     {
       "id": "s147",
@@ -2037,7 +2081,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "4 Nov check: unavailable — HTTP 403"
+      "collection": "5 Nov access recheck: listings extracted"
     },
     {
       "id": "s148",
@@ -2070,7 +2114,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov access recheck: listings extracted"
     },
     {
       "id": "s151",
@@ -2081,7 +2125,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov access recheck: listings extracted"
     },
     {
       "id": "s152",
@@ -2092,7 +2136,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov collection: unavailable — Robots unavailable: 403"
     },
     {
       "id": "s153",
@@ -2103,7 +2147,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov access recheck: listings extracted"
     },
     {
       "id": "s154",
@@ -2125,7 +2169,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov access recheck: listings extracted"
     },
     {
       "id": "s156",
@@ -2136,7 +2180,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov access recheck: listings extracted"
     },
     {
       "id": "s157",
@@ -2147,7 +2191,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov access recheck: listings extracted"
     },
     {
       "id": "s158",
@@ -2158,7 +2202,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov access recheck: listings extracted"
     },
     {
       "id": "s159",
@@ -2169,7 +2213,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "4 Nov check: listings extracted"
+      "collection": "5 Nov access recheck: listings extracted"
     },
     {
       "id": "s160",

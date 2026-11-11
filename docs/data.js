@@ -1,7 +1,30 @@
 window.AFRICA_DESK = {
   "schemaVersion": 1,
-  "publishedAt": "2026-11-10T17:18:00.170Z",
+  "publishedAt": "2026-11-11T12:07:07.909Z",
   "editions": [
+    {
+      "date": "2026-11-11",
+      "label": "ONE NEW REPORTING DIRECTION · ORIGINALITY UNCONFIRMED",
+      "headline": "Follow Uganda’s electricity contracts by district.",
+      "summary": "A project results report and two tender notices give a way to track whether work in refugee-hosting districts is reaching its intended households. Current district-level contracts and connection counts are still needed.",
+      "newDevelopedLeads": 1,
+      "health": {
+        "ok": 75,
+        "unavailable": 11,
+        "adapters": 3
+      },
+      "activeLeadIds": [
+        "uganda-easp-refugee-grid",
+        "madagascar-pickup-secrecy",
+        "tanzania-aircraft",
+        "zambia-recordings",
+        "sa-prison-records",
+        "botswana-recruitment",
+        "malawi-funding-certification"
+      ],
+      "fileNote": "The Uganda electricity lead was first reviewed today. Earlier leads retain their original review dates.",
+      "queueNote": "Uganda’s colonial demobilisation catalogue identifies files, but their contents are still unread. No authenticated social post entered the brief."
+    },
     {
       "date": "2026-11-10",
       "label": "NO NEW FINDINGS",
@@ -551,6 +574,46 @@ window.AFRICA_DESK = {
           "url": "https://mwnation.com/ra-to-award-k587-billion-karonga-road-contracts/"
         }
       ]
+    },
+    {
+      "id": "uganda-easp-refugee-grid",
+      "title": "Which Uganda electricity contracts serve refugee-hosting districts?",
+      "country": "Uganda",
+      "beat": "Politics & power",
+      "status": "Reporting lead",
+      "firstReviewed": "2026-11-11",
+      "summary": "The World Bank’s March project report separates grid and off-grid progress in refugee-hosting districts. Uganda’s energy ministry published October line-installation tenders covering other districts. The reporting question is how the separate work for refugee-hosting districts has progressed.",
+      "angle": "Match grid works packages to the refugee-hosting districts they serve, then trace award, construction and verified connection dates for refugees and host communities.",
+      "evidence": "World Bank project P166685, 17 March report, pp. 3 and 8. Page 8 records 1,323 grid and mini-grid connections in refugee-hosting districts as of 16 March, against a June 2027 target of 100,000. Its note still gives 1,243, the previous table value. The October notices for lots 5–8 and 9–11 explicitly describe works in non-refugee-hosting districts.",
+      "priorCoverage": "The Source Reports covered national progress, delays and plans for refugee-hosting districts on 5 August. UG Diplomat covered the November parliamentary discussion of procurement delays.",
+      "gaps": "The March count is historical and needs reconciliation with the footnote. The two notices cover specific lots. A separate refugee-district works schedule, updated beneficiary counts and actual completion dates remain unverified.",
+      "steps": [
+        "Locate the latest procurement plan and identify the separate refugee-district packages.",
+        "Compare planned and actual award, completion and connection dates by district.",
+        "Reconcile the March figures with current monitoring data and distinguish refugee households, host communities and off-grid connections."
+      ],
+      "sources": [
+        {
+          "label": "World Bank March results report, PDF pages 3 and 8",
+          "url": "https://documents1.worldbank.org/curated/en/099031726163536335/pdf/P166685-968ea066-da4e-43db-b4a5-07fb06298b58.pdf"
+        },
+        {
+          "label": "Energy ministry notice for lots 5–8",
+          "url": "https://www.memd.go.ug/public/opportunities/procurement/procurement-of-line-installation-contractors-lot-5-8"
+        },
+        {
+          "label": "Energy ministry notice for lots 9–11",
+          "url": "https://www.memd.go.ug/opportunities/procurement/procurement-of-line-installation-contractors-lot-9-11"
+        },
+        {
+          "label": "The Source Reports, 5 August",
+          "url": "https://thesource.co.ug/national/electricity-access-project-reaches-234000-connections-despite-delays/"
+        },
+        {
+          "label": "UG Diplomat, 6 November",
+          "url": "https://ugdiplomat.com/world-bank-warns-ugandas-lengthy-procurement-process-is-delaying-projects/"
+        }
+      ]
     }
   ],
   "sources": [
@@ -563,7 +626,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "10 Nov collection: source unavailable"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s002",
@@ -574,7 +637,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "primary",
       "enabled": true,
-      "collection": "10 Nov collection: source unavailable"
+      "collection": "11 Nov collection: source unavailable"
     },
     {
       "id": "s003",
@@ -585,7 +648,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s004",
@@ -596,7 +659,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "primary",
       "enabled": true,
-      "collection": "10 Nov collection: no listings extracted; adapter or manual review needed"
+      "collection": "11 Nov collection: no listings extracted; adapter or manual review needed"
     },
     {
       "id": "s005",
@@ -607,7 +670,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s006",
@@ -618,7 +681,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "primary",
       "enabled": true,
-      "collection": "10 Nov collection: no listings extracted; adapter or manual review needed"
+      "collection": "11 Nov collection: no listings extracted; adapter or manual review needed"
     },
     {
       "id": "s007",
@@ -629,7 +692,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s008",
@@ -640,7 +703,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "primary",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s009",
@@ -651,7 +714,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "10 Nov collection: source unavailable"
+      "collection": "11 Nov collection: source unavailable"
     },
     {
       "id": "s010",
@@ -662,7 +725,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "primary",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s011",
@@ -684,7 +747,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "primary",
       "enabled": true,
-      "collection": "10 Nov collection: source unavailable"
+      "collection": "11 Nov collection: source unavailable"
     },
     {
       "id": "s013",
@@ -695,7 +758,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s014",
@@ -706,7 +769,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "primary",
       "enabled": true,
-      "collection": "10 Nov collection: no listings extracted; adapter or manual review needed"
+      "collection": "11 Nov collection: no listings extracted; adapter or manual review needed"
     },
     {
       "id": "s015",
@@ -717,7 +780,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "10 Nov collection: source unavailable"
+      "collection": "11 Nov collection: source unavailable"
     },
     {
       "id": "s016",
@@ -761,7 +824,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s020",
@@ -783,7 +846,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s022",
@@ -805,7 +868,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s024",
@@ -816,7 +879,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s025",
@@ -827,7 +890,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s026",
@@ -849,7 +912,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s028",
@@ -871,7 +934,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s030",
@@ -937,7 +1000,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "official-media",
       "enabled": true,
-      "collection": "10 Nov collection: source unavailable"
+      "collection": "11 Nov collection: source unavailable"
     },
     {
       "id": "s036",
@@ -1003,7 +1066,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s042",
@@ -1025,7 +1088,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s044",
@@ -1047,7 +1110,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s046",
@@ -1069,7 +1132,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "10 Nov collection: source unavailable"
+      "collection": "11 Nov collection: source unavailable"
     },
     {
       "id": "s048",
@@ -1137,7 +1200,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s054",
@@ -1148,7 +1211,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "primary",
       "enabled": true,
-      "collection": "10 Nov collection: source unavailable"
+      "collection": "11 Nov collection: source unavailable"
     },
     {
       "id": "s055",
@@ -1159,7 +1222,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s056",
@@ -1170,7 +1233,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s057",
@@ -1181,7 +1244,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reference",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s058",
@@ -1192,7 +1255,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "archive",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s059",
@@ -1203,7 +1266,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "archive",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s060",
@@ -1217,7 +1280,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "archive",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s061",
@@ -1228,7 +1291,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "archive",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s062",
@@ -1239,7 +1302,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "primary",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s063",
@@ -1250,7 +1313,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "primary",
       "enabled": true,
-      "collection": "10 Nov collection: source unavailable"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s064",
@@ -1261,7 +1324,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "primary",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s065",
@@ -1272,7 +1335,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "primary",
       "enabled": true,
-      "collection": "10 Nov collection: source unavailable"
+      "collection": "11 Nov collection: source unavailable"
     },
     {
       "id": "s066",
@@ -1301,7 +1364,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s068",
@@ -1378,7 +1441,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s075",
@@ -1389,7 +1452,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s076",
@@ -1400,7 +1463,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s077",
@@ -1433,7 +1496,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "10 Nov collection: source unavailable"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s080",
@@ -1444,7 +1507,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s081",
@@ -1477,7 +1540,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s084",
@@ -1521,7 +1584,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s088",
@@ -1565,7 +1628,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "10 Nov collection: source unavailable"
+      "collection": "11 Nov collection: source unavailable"
     },
     {
       "id": "s092",
@@ -1576,7 +1639,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s093",
@@ -1598,7 +1661,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s095",
@@ -1609,7 +1672,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s096",
@@ -1620,7 +1683,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s097",
@@ -1708,7 +1771,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s105",
@@ -1730,7 +1793,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s107",
@@ -1752,7 +1815,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s109",
@@ -1763,7 +1826,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s110",
@@ -1774,7 +1837,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s111",
@@ -1796,7 +1859,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s113",
@@ -1807,7 +1870,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s114",
@@ -1818,7 +1881,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s115",
@@ -1829,7 +1892,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s116",
@@ -1840,7 +1903,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s117",
@@ -1862,7 +1925,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s119",
@@ -1884,7 +1947,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "10 Nov collection: source unavailable"
+      "collection": "11 Nov collection: source unavailable"
     },
     {
       "id": "s121",
@@ -1895,7 +1958,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s122",
@@ -1917,7 +1980,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s124",
@@ -1972,7 +2035,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s129",
@@ -1983,7 +2046,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s130",
@@ -2005,7 +2068,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s132",
@@ -2027,7 +2090,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s134",
@@ -2038,7 +2101,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s135",
@@ -2060,7 +2123,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s137",
@@ -2071,7 +2134,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s138",
@@ -2104,7 +2167,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s141",
@@ -2115,7 +2178,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s142",
@@ -2126,7 +2189,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s143",
@@ -2137,7 +2200,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s144",
@@ -2159,7 +2222,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s146",
@@ -2170,7 +2233,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s147",
@@ -2181,7 +2244,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s148",
@@ -2214,7 +2277,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s151",
@@ -2225,7 +2288,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s152",
@@ -2236,7 +2299,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "10 Nov collection: source unavailable"
+      "collection": "11 Nov collection: source unavailable"
     },
     {
       "id": "s153",
@@ -2247,7 +2310,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s154",
@@ -2269,7 +2332,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s156",
@@ -2280,7 +2343,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s157",
@@ -2291,7 +2354,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s158",
@@ -2302,7 +2365,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s159",
@@ -2313,7 +2376,7 @@ window.AFRICA_DESK = {
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "10 Nov collection: listings extracted"
+      "collection": "11 Nov collection: listings extracted"
     },
     {
       "id": "s160",

@@ -1,7 +1,30 @@
 {
   "schemaVersion": 1,
-  "publishedAt": "2026-11-12T15:00:25.869Z",
+  "publishedAt": "2026-11-13T15:12:40.646Z",
   "editions": [
+    {
+      "date": "2026-11-13",
+      "label": "NO NEW FINDINGS",
+      "headline": "Two procurement and audit questions remain open.",
+      "summary": "No new finding cleared review. Mozambique’s geographic audit coverage still needs the underlying state report, and the Comoros maritime tender needs a confirmed amendment or award.",
+      "newDevelopedLeads": 0,
+      "health": {
+        "ok": 71,
+        "unavailable": 15,
+        "adapters": 3
+      },
+      "activeLeadIds": [
+        "uganda-easp-refugee-grid",
+        "madagascar-pickup-secrecy",
+        "tanzania-aircraft",
+        "zambia-recordings",
+        "sa-prison-records",
+        "botswana-recruitment",
+        "malawi-funding-certification"
+      ],
+      "fileNote": "Carried leads retain their original review dates.",
+      "queueNote": "Carta de Moçambique already reported the geographic audit gap. The Comoros tender appeared with different deadlines across listings. Archive and social checks yielded no verified new material."
+    },
     {
       "date": "2026-11-12",
       "label": "NO NEW FINDINGS",
@@ -649,7 +672,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "12 Nov collection: listings extracted"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s002",
@@ -660,7 +683,7 @@
       ],
       "kind": "primary",
       "enabled": true,
-      "collection": "12 Nov collection: source unavailable"
+      "collection": "13 Nov collection: source unavailable"
     },
     {
       "id": "s003",
@@ -671,7 +694,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "12 Nov collection: listings extracted"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s004",
@@ -682,7 +705,7 @@
       ],
       "kind": "primary",
       "enabled": true,
-      "collection": "12 Nov collection: no listings extracted; adapter or manual review needed"
+      "collection": "13 Nov collection: no listings extracted; adapter or manual review needed"
     },
     {
       "id": "s005",
@@ -693,7 +716,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "12 Nov collection: listings extracted"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s006",
@@ -704,7 +727,7 @@
       ],
       "kind": "primary",
       "enabled": true,
-      "collection": "12 Nov collection: no listings extracted; adapter or manual review needed"
+      "collection": "13 Nov collection: no listings extracted; adapter or manual review needed"
     },
     {
       "id": "s007",
@@ -715,7 +738,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "12 Nov collection: listings extracted"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s008",
@@ -726,7 +749,7 @@
       ],
       "kind": "primary",
       "enabled": true,
-      "collection": "12 Nov collection: listings extracted"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s009",
@@ -737,7 +760,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "12 Nov collection: source unavailable"
+      "collection": "13 Nov collection: source unavailable"
     },
     {
       "id": "s010",
@@ -748,7 +771,7 @@
       ],
       "kind": "primary",
       "enabled": true,
-      "collection": "12 Nov collection: listings extracted"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s011",
@@ -770,7 +793,7 @@
       ],
       "kind": "primary",
       "enabled": true,
-      "collection": "12 Nov collection: source unavailable"
+      "collection": "13 Nov collection: source unavailable"
     },
     {
       "id": "s013",
@@ -781,7 +804,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "12 Nov collection: listings extracted"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s014",
@@ -792,7 +815,7 @@
       ],
       "kind": "primary",
       "enabled": true,
-      "collection": "12 Nov collection: no listings extracted; adapter or manual review needed"
+      "collection": "13 Nov collection: no listings extracted; adapter or manual review needed"
     },
     {
       "id": "s015",
@@ -803,7 +826,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "12 Nov collection: source unavailable"
+      "collection": "13 Nov collection: source unavailable"
     },
     {
       "id": "s016",
@@ -847,7 +870,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "12 Nov collection: listings extracted"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s020",
@@ -869,7 +892,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "12 Nov collection: listings extracted"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s022",
@@ -891,7 +914,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "12 Nov collection: listings extracted"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s024",
@@ -902,7 +925,7 @@
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "12 Nov collection: source unavailable"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s025",
@@ -913,7 +936,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "12 Nov collection: listings extracted"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s026",
@@ -935,7 +958,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "12 Nov collection: listings extracted"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s028",
@@ -957,7 +980,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "12 Nov collection: source unavailable"
+      "collection": "13 Nov collection: source unavailable"
     },
     {
       "id": "s030",
@@ -1023,7 +1046,7 @@
       ],
       "kind": "official-media",
       "enabled": true,
-      "collection": "12 Nov collection: source unavailable"
+      "collection": "13 Nov collection: source unavailable"
     },
     {
       "id": "s036",
@@ -1089,7 +1112,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "12 Nov collection: listings extracted"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s042",
@@ -1111,7 +1134,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "12 Nov collection: listings extracted"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s044",
@@ -1133,7 +1156,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "12 Nov collection: listings extracted"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s046",
@@ -1155,7 +1178,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "12 Nov collection: source unavailable"
+      "collection": "13 Nov collection: source unavailable"
     },
     {
       "id": "s048",
@@ -1223,7 +1246,7 @@
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "12 Nov collection: listings extracted"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s054",
@@ -1234,7 +1257,7 @@
       ],
       "kind": "primary",
       "enabled": true,
-      "collection": "12 Nov collection: source unavailable"
+      "collection": "13 Nov collection: source unavailable"
     },
     {
       "id": "s055",
@@ -1245,7 +1268,7 @@
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "12 Nov collection: source unavailable"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s056",
@@ -1256,7 +1279,7 @@
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "12 Nov collection: listings extracted"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s057",
@@ -1267,7 +1290,7 @@
       ],
       "kind": "reference",
       "enabled": true,
-      "collection": "12 Nov collection: listings extracted"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s058",
@@ -1278,7 +1301,7 @@
       ],
       "kind": "archive",
       "enabled": true,
-      "collection": "12 Nov collection: listings extracted"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s059",
@@ -1289,7 +1312,7 @@
       ],
       "kind": "archive",
       "enabled": true,
-      "collection": "12 Nov collection: listings extracted"
+      "collection": "13 Nov collection: source unavailable"
     },
     {
       "id": "s060",
@@ -1303,7 +1326,7 @@
       ],
       "kind": "archive",
       "enabled": true,
-      "collection": "12 Nov collection: listings extracted"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s061",
@@ -1314,7 +1337,7 @@
       ],
       "kind": "archive",
       "enabled": true,
-      "collection": "12 Nov collection: listings extracted"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s062",
@@ -1325,7 +1348,7 @@
       ],
       "kind": "primary",
       "enabled": true,
-      "collection": "12 Nov collection: listings extracted"
+      "collection": "13 Nov collection: source unavailable"
     },
     {
       "id": "s063",
@@ -1336,7 +1359,7 @@
       ],
       "kind": "primary",
       "enabled": true,
-      "collection": "12 Nov collection: listings extracted"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s064",
@@ -1347,7 +1370,7 @@
       ],
       "kind": "primary",
       "enabled": true,
-      "collection": "12 Nov collection: listings extracted"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s065",
@@ -1358,7 +1381,7 @@
       ],
       "kind": "primary",
       "enabled": true,
-      "collection": "12 Nov collection: source unavailable"
+      "collection": "13 Nov collection: source unavailable"
     },
     {
       "id": "s066",
@@ -1387,7 +1410,7 @@
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "12 Nov collection: listings extracted"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s068",
@@ -1464,7 +1487,7 @@
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "12 Nov collection: listings extracted"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s075",
@@ -1475,7 +1498,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "12 Nov collection: listings extracted"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s076",
@@ -1486,7 +1509,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "12 Nov collection: listings extracted"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s077",
@@ -1519,7 +1542,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "12 Nov collection: listings extracted"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s080",
@@ -1530,7 +1553,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "12 Nov collection: listings extracted"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s081",
@@ -1563,7 +1586,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "12 Nov collection: listings extracted"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s084",
@@ -1607,7 +1630,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "12 Nov collection: listings extracted"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s088",
@@ -1651,7 +1674,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "12 Nov collection: source unavailable"
+      "collection": "13 Nov collection: source unavailable"
     },
     {
       "id": "s092",
@@ -1662,7 +1685,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "12 Nov collection: listings extracted"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s093",
@@ -1684,7 +1707,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "12 Nov collection: listings extracted"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s095",
@@ -1695,7 +1718,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "12 Nov collection: listings extracted"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s096",
@@ -1706,7 +1729,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "12 Nov collection: listings extracted"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s097",
@@ -1794,7 +1817,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "12 Nov collection: listings extracted"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s105",
@@ -1816,7 +1839,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "12 Nov collection: listings extracted"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s107",
@@ -1838,7 +1861,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "12 Nov collection: source unavailable"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s109",
@@ -1849,7 +1872,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "12 Nov collection: listings extracted"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s110",
@@ -1860,7 +1883,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "12 Nov collection: listings extracted"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s111",
@@ -1882,7 +1905,7 @@
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "12 Nov collection: listings extracted"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s113",
@@ -1893,7 +1916,7 @@
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "12 Nov collection: source unavailable"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s114",
@@ -1904,7 +1927,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "12 Nov collection: listings extracted"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s115",
@@ -1915,7 +1938,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "12 Nov collection: listings extracted"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s116",
@@ -1926,7 +1949,7 @@
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "12 Nov collection: listings extracted"
+      "collection": "13 Nov collection: source unavailable"
     },
     {
       "id": "s117",
@@ -1948,7 +1971,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "12 Nov collection: listings extracted"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s119",
@@ -1970,7 +1993,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "12 Nov collection: source unavailable"
+      "collection": "13 Nov collection: source unavailable"
     },
     {
       "id": "s121",
@@ -1981,7 +2004,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "12 Nov collection: listings extracted"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s122",
@@ -2003,7 +2026,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "12 Nov collection: listings extracted"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s124",
@@ -2058,7 +2081,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "12 Nov collection: listings extracted"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s129",
@@ -2069,7 +2092,7 @@
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "12 Nov collection: listings extracted"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s130",
@@ -2091,7 +2114,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "12 Nov collection: listings extracted"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s132",
@@ -2113,7 +2136,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "12 Nov collection: listings extracted"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s134",
@@ -2124,7 +2147,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "12 Nov collection: listings extracted"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s135",
@@ -2146,7 +2169,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "12 Nov collection: listings extracted"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s137",
@@ -2157,7 +2180,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "12 Nov collection: listings extracted"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s138",
@@ -2190,7 +2213,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "12 Nov collection: listings extracted"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s141",
@@ -2201,7 +2224,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "12 Nov collection: listings extracted"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s142",
@@ -2212,7 +2235,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "12 Nov collection: listings extracted"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s143",
@@ -2223,7 +2246,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "12 Nov collection: listings extracted"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s144",
@@ -2245,7 +2268,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "12 Nov collection: listings extracted"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s146",
@@ -2256,7 +2279,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "12 Nov collection: listings extracted"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s147",
@@ -2267,7 +2290,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "12 Nov collection: listings extracted"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s148",
@@ -2300,7 +2323,7 @@
       ],
       "kind": "reporting",
       "enabled": true,
-      "collection": "12 Nov collection: listings extracted"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s151",
@@ -2311,7 +2334,7 @@
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "12 Nov collection: listings extracted"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s152",
@@ -2322,7 +2345,7 @@
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "12 Nov collection: source unavailable"
+      "collection": "13 Nov collection: source unavailable"
     },
     {
       "id": "s153",
@@ -2333,7 +2356,7 @@
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "12 Nov collection: listings extracted"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s154",
@@ -2355,7 +2378,7 @@
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "12 Nov collection: listings extracted"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s156",
@@ -2366,7 +2389,7 @@
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "12 Nov collection: listings extracted"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s157",
@@ -2377,7 +2400,7 @@
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "12 Nov collection: listings extracted"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s158",
@@ -2388,7 +2411,7 @@
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "12 Nov collection: listings extracted"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s159",
@@ -2399,7 +2422,7 @@
       ],
       "kind": "research",
       "enabled": true,
-      "collection": "12 Nov collection: listings extracted"
+      "collection": "13 Nov collection: listings extracted"
     },
     {
       "id": "s160",
